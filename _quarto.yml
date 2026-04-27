@@ -1,0 +1,31 @@
+project:
+  type: sdca-theme
+
+website:
+  title: "Digital årskontrol"
+  site-url: "https://steno-aarhus.github.io/digital-aarskontrol/"
+  repo-url: "https://github.com/steno-aarhus/digital-aarskontrol"
+  # TODO: Set favicon if relevant.
+  # favicon: ""
+  navbar:
+    # TODO: Add logo and logo-alt if relevant.
+    logo: ""
+    logo-alt: ""
+    pinned: true
+    tools:
+      - icon: github
+        href: "https://github.com/steno-aarhus/digital-aarskontrol"
+        aria-label: "GitHub icon: Source repository"
+
+format:
+  sdca-theme-html:
+    theme:
+      - brand
+      - custom-styles.scss
+
+editor: 
+  markdown:
+    wrap: 72
+    canonical: true
+
+
