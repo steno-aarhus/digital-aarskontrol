@@ -6,17 +6,22 @@ website:
   site-url: "https://steno-aarhus.github.io/digital-aarskontrol/"
   repo-url: "https://github.com/steno-aarhus/digital-aarskontrol"
   # TODO: Set favicon if relevant.
-  # favicon: ""
+
   navbar:
-    # TODO: Add logo and logo-alt if relevant.
-    logo: ""
-    logo-alt: ""
-    pinned: true
+    left: 
+      - text: "For almen praksis"
+        href: for-almen-praksis.qmd
+      - text: "Om projektet"
+        href: om-projektet.qmd
+      - text: "Kontakt"
+        href: kontakt.qmd
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/digital-aarskontrol"
-        aria-label: "GitHub icon: Source repository"
-
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "Denne hjemmeside er under udvikling. Nogle sider kan mangle indhold eller være midlertidigt utilgængelige."
 format:
   sdca-theme-html:
     theme:
@@ -27,5 +32,3 @@ editor:
   markdown:
     wrap: 72
     canonical: true
-
-
