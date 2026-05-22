@@ -4,8 +4,9 @@ subtitle: "Tilmelding og materialer"
 📌 Hop til: [📋 Tilmelding](#tilmelding) | [❓ FAQ](#faq) | [💻 E-læring](#e-læring) | [📂 Materialer](#materialer)
 
 ### Om projektet
-Projektet afprøver en enkel indsats, hvor tarmkræftscreening systematisk indgår i årskontrollen for patienter med type 2-diabetes.
-Indsatsen består af en kort, struktureret samtale, der kan gennemføres på under 2 minutter i konsultationen.
+Projektet vil undersøge, om hver anden årskontrol hos voksne med velbehandlettype 2-diabetes kan erstattes af en digital model uden at kompromittere behandlingskvaliteten. 
+Forsøget vil løbe over to år og blive evalueret på, om deltagerne i det digitale forløb klarer sig lige så godt vedrørende HbA1c, som personer med type2-diabetes, der følger en standard årskontrol. Desuden vil projektet følge forbruget af konsultationer, øvrige diabetesrelevante værdier, herunder blodtryk, kolesterol, eGFR, UACR og medicin.
+
 
 Hvad kræver det af klinikken at deltage:
 
@@ -25,16 +26,16 @@ Læs mere om projektet, samarbejdspartnere og metode her: [Om projektet](om-proj
 Klinikken honoreres for projektaktiviteter; honoraret er specificeret i samarbejdsaftalen, der fremsendes ved tilmelding.
 
 ## 📋 Tilmelding
-Projektet henvender sig til almen praksis i Region Midtjylland og forventes at starte i september 2026 og have en varrighed på 6-9 måneder.
+Projektet henvender sig til almen praksis i Region Midtjylland og forventes at starte i september 2026 og have en varrighed på 24 måneder.
 
-Når I tilmelder jeres klinik, registreres I som interesserede. Pladserne fordeles efter først-til-mølle-princippet. Senest tre hverdage efter tilmelding vil I modtage yderligere information om projektet samt en samarbejdsaftale, inden det endelige samarbejde aftales.
+Når I tilmelder jeres klinik, registreres I som interesserede. Pladserne fordeles efter først-til-mølle-princippet. Senest fem hverdage efter tilmelding vil I modtage yderligere information om projektet samt en samarbejdsaftale, inden det endelige samarbejde aftales.
 
 Ved at udfylde formularen accepterer I, at vi behandler jeres oplysninger i projektet. Oplysningerne bruges udelukkende til at registrere tilmeldinger og kontakte jer efterfølgende.  
 Tilmeldingen er først registreret, når I har trykket på "Tilmeld" og modtager beskeden: "Tak for din tilmelding".
 
 Udfyld tilmeldingsformularen herunder for at tilmelde jeres lægepraksis:
 
-<iframe title="Tilmeldingsformular" src="https://redcap.link/spoerg-aarsstatus" width="100%" height="1000px" style="border: 6px solid black"> </iframe>
+
 
 
 ## ❓FAQ 
@@ -48,9 +49,9 @@ Projektet forventes at starte i september 2026 og vare i 6-9 måneder.
 
 Efter en kort elektronisk oplæring kan klinikken begynde at spørge patienter og registrere svar. Ved spørgsmål eller tvivl kan klinikken kontakte projektkoordinator Tina Quist.
 
-📧 tina.quist\@rm.dk  
+📧 kichis\@rm.dk  
 
-☎️ 24 34 63 47 </details> 
+☎️  </details> 
 
 <details> <summary><strong>Hvilke patienter kan indgå?</strong></summary> 
 Projektet omfatter patienter med type 2-diabetes, som er i målgruppen for det nationale screeningsprogram for tarmkræft. Det vil sige patienter i alderen 51-74 år</details>
