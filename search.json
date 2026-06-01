@@ -67,6 +67,13 @@
     "href": "index.html",
     "title": "Digital årskontrol",
     "section": "",
-    "text": "Denne hjemmeside er under udvikling."
+    "text": "title-block-banner: true title: “Digital årskontrol” subtitle: “Kan patienter med velreguleret type 2- diabetes følges digitalt uden at kvaliteten af behandlingen forringes?” listing:"
+  },
+  {
+    "objectID": "index.html#denne-hjemmeside-er-under-udvikling.",
+    "href": "index.html#denne-hjemmeside-er-under-udvikling.",
+    "title": "Digital årskontrol",
+    "section": "",
+    "text": "title-block-banner: true title: “Digital årskontrol” subtitle: “Kan patienter med velreguleret type 2- diabetes følges digitalt uden at kvaliteten af behandlingen forringes?” listing:"
   }
 ]
