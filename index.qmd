@@ -1,7 +1,41 @@
 ---
 title-block-banner: true
 title: "Digital årskontrol"
-# subtitle: "En underoverskrift"
+# subtitle: "Kan patienter med velreguleret type 2- diabetes følges digitalt uden at kvaliteten af behandlingen forringes?"
 ---
 
 Denne hjemmeside er under udvikling.
+---
+title-block-banner: true
+title: "Digital årskontrol"
+subtitle: "Kan patienter med velreguleret type 2- diabetes følges digitalt uden at kvaliteten af behandlingen forringes?"
+listing: 
+
+# Velkommen
+Først lidt om projektets formål
+
+Det overordnede formål med projektet er at opnå viden om, hvordan almen praksis kan differentiere behandlingsforløb til personer med type 2-diabetes med sigte på at øge lighed i sundhed. 
+Herudover bidrager forsøget med viden om, hvordan et digitalt tilbud kan understøtte differentiering i almen praksis. 
+Viden og erfaring som kan overføres til andre grupper af kronikere. 
+Sundhedsreformen tilsiger, at almen praksis skal overtage kontrollen af flere kronikere, men også at alle patienter i fremtiden skal tilbydes en digital løsning, når det vurderes fagligt forsvarligt, og patienten ønsker det.  
+
+Antallet af personer med type 2-diabetes i Danmark er stigende og skønnes at nå 420.000 i 2030. Flere yngre får T2D og andelen af velbehandlede type 2 diabetikere er stigende. 
+Cirka 4 ud af 10 personer med T2D i Danmark har ingen hjertekarsygdom og har samtidig normale værdier for langtidsblodsukker og kolesterol [1].   
+
+Hvis almen praksis skal kunne løfte denne opgave, er det nødvendigt at undersøge digitale alternativer for opfølning af personer med kronisk sygdom. 
+Samtidig er det vigtigt at opnå evidens for, hvordan dette kan udføres sikkert med hensyn til at holde behandlingskvaliteten. 
+
+Forsøget afprøver, om en digital årskontrol kan implementeres uden at gå på kompromis med behandlingskvaliteten i en population af personer med type 2-diabetes, som ud fra et sæt foruddefinerede indikatorer vurderes som velregulerede. I forsøget vil den eksisterende fysiske årskontrol hvert andet år blive erstattet af en digital årskontrol.
+
+Herudover vil forsøget gennem kvalitative interviews undersøge hvordan:
+•	Omlægningen til digital årskontrol håndteres og opleves af almen praksis og deltagere i forsøget. 
+•	Behandlere i almen praksis håndterer muligheden for at differentiere behandling. 
+•	Påvirker differentieringen forbruget af sundhedsydelser for deltagerne? 
+
+
+
+::: {#listing}
+:::
+
+![](/images/VS.png){fig-alt="Projektbanner med teksten 'Spørg til årsstatus – Tarmkræftscreening som en del af diabetesomsorgen'. Logoer for Region Midtjylland, Steno Diabetes Center Aarhus og Kræftens Bekæmpelse."
+width="50%" fig-align="center"}
