@@ -4,21 +4,21 @@ subtitle: "Tilmelding og materialer"
 📌 Hop til: [📋 Tilmelding](#tilmelding) | [❓ FAQ](#faq) | [💻 E-læring](#e-læring) | [📂 Materialer](#materialer)
 
 ### Om projektet
-Projektet vil undersøge, om hver anden årskontrol hos voksne med velbehandlettype 2-diabetes kan erstattes af en digital model uden at kompromittere behandlingskvaliteten. 
-Forsøget vil løbe over to år og blive evalueret på, om deltagerne i det digitale forløb klarer sig lige så godt vedrørende HbA1c, som personer med type2-diabetes, der følger en standard årskontrol. Desuden vil projektet følge forbruget af konsultationer, øvrige diabetesrelevante værdier, herunder blodtryk, kolesterol, eGFR, UACR og medicin.
+Projektet vil undersøge, om hver anden årskontrol hos voksne med velbehandlettype 2-diabetes kan erstattes af en digital model uden at behandlingskvaliteten påvirkes negativt.  
+Forsøget vil løbe over to år og blive evalueret på, om deltagerne i det digitale forløb klarer sig lige så godt vedrørende HbA1c, som personer med type 2-diabetes, der følger en standard årskontrol. Desuden vil projektet følge forbruget af konsultationer, øvrige diabetesrelevante værdier, herunder blodtryk, kolesterol, eGFR, UACR og medicin.
 
 
 Hvad kræver det af klinikken at deltage:
 
 -	identificer potentielle deltagere via patientlisten i forløbsoverblikket. 
 
-- kontrollér ved opslag i journalen at pateinten egner sig til digital årskontrol.
+- kontrollér ved opslag i journalen at patinten opfylder inklusionskriterier og egner sig til digital årskontrol.
 
--	send invitation om deltagelse i projeket til patienten via lægesystemets beskedmodul.
+-	sende invitation om deltagelse i projeket til patienten via lægesystemets beskedmodul.
 
-- aftal tid til telefonisk mundtlig information om projektet. 
+- afgive mundtlig telefonisk information om projektet. 
 
--	Bestil prøvetagningssæt online. Sættet sendes direkte til patientens adresse.
+-	sende
 
 Læs mere om projektet, samarbejdspartnere og metode her: [Om projektet](om-projektet.qmd)  
 
@@ -26,7 +26,7 @@ Læs mere om projektet, samarbejdspartnere og metode her: [Om projektet](om-proj
 Klinikken honoreres for projektaktiviteter; honoraret er specificeret i samarbejdsaftalen, der fremsendes ved tilmelding.
 
 ## 📋 Tilmelding
-Projektet henvender sig til almen praksis i Region Midtjylland og forventes at starte i september 2026 og have en varrighed på 24 måneder.
+Projektet henvender sig til almen praksis i Region Midtjylland og forventes at starte i september 2026 og have en varighed på 24 måneder.
 
 Når I tilmelder jeres klinik, registreres I som interesserede. Pladserne fordeles efter først-til-mølle-princippet. Senest fem hverdage efter tilmelding vil I modtage yderligere information om projektet samt en samarbejdsaftale, inden det endelige samarbejde aftales.
 
@@ -44,20 +44,30 @@ Udfyld tilmeldingsformularen herunder for at tilmelde jeres lægepraksis:
 <details> <summary><strong>Er tilmelding bindende?</strong></summary> 
 Nej. Tilmelding er i første omgang uforpligtende. Den endelige deltagelse aftales ved indgåelse af samarbejdsaftale. </details> 
 
-<details> <summary><strong>Hvornår starter projektet?</strong></summary> 
-Projektet forventes at starte i september 2026 og vare i 6-9 måneder. 
 
-Efter en kort elektronisk oplæring kan klinikken begynde at spørge patienter og registrere svar. Ved spørgsmål eller tvivl kan klinikken kontakte projektkoordinator Tina Quist.
+Efter en kort elektronisk oplæring kan klinikken begynde at spørge patienter og registrere svar. Ved spørgsmål eller tvivl kan klinikken kontakte projektkoordinator Kirsten Christensen.
 
 📧 kichis\@rm.dk  
 
 ☎️  </details> 
 
-<details> <summary><strong>Hvilke patienter kan indgå?</strong></summary> 
-Projektet omfatter patienter med type 2-diabetes, som er i målgruppen for det nationale screeningsprogram for tarmkræft. Det vil sige patienter i alderen 51-74 år</details>
+📌 <details> <summary><strong>Hvilke patienter kan indgå?</strong></summary> 
 
-<details> <summary><strong>Kan vi gennemføre projektet hos udvalgte behandlere i klinikken?</strong></summary>
-Alle medarbejdere i klinikken kan gennemføre samtalen og projektets procedurer, men det en forudsætning, at klinikken deltager som helhed. Det betyder, at alle patienter i målgruppen i projektperioden skal inkluderes, uanset behandler. Alle årskontroller for diabetes i klinikken skal i projektperioden registreres med ydelseskode 0120.
+Projektet omfatter patienter med type 2-diabetes, som opfylder inklusionskriterierne:
+•	Myndige voksne over 18 år med type 2 diabetes, som følges i almen praksis.
+•	eGFR > 59 ml/min/1,73 m².
+•	HbA1c: < 48 mmol/mol, eller 48–53 mmol/mol hvis det individuelle mål for langtidsblodsukkeret er < 53 mmol/mol.
+•	Urin albumin/kreatinin-ratio (UACR):< 30 mg/g eller 30–300 mg/g, hvis deltageren er i behandling med organbeskyttende medicin.
+•	LDL-kolesterol < 2,6 mmol/L.
+
+•	Desuden skal kunne bruge den danske nationale sundhedsportal (www.sundhed.dk), samt  læse og forstå dansk.
+
+Forhold som udelukker patienten fra at deltage: 
+•	Hvis den behandlingsansvarlige vurderer personen uegnet til digital årskontrol grundet fx alvorlige komorbiditeter eller andre forhold. 
+•	Graviditet. 
+
+
+
 </details>
 
  <details> <summary><strong>Hvor meget tid skal vi bruge på projektet?</strong></summary> 
