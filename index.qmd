@@ -11,7 +11,7 @@ title: "Digital årskontrol"
 subtitle: "Kan patienter med velreguleret type 2- diabetes følges digitalt uden at kvaliteten af behandlingen forringes?"
 listing: 
 
-# Velkommen til hjemmesiden om projektet digital årskontrol. 
+# Velkommen til hjemmesiden om projekt digital årskontrol. 
 
 # Hvad er projekt digital årskontrol?
 Projektet går ud på, at patienter med velbehandlet type 2‑diabetes, som har givet samtykke til at deltage i projektet, hver andet år ikke møder til konsultation hos lægen eller sygeplejersken for at få svar på deres årskontrolprøver, men i stedet modtager svarene som en mail fra lægen eller sygeplejersken.  
