@@ -11,31 +11,34 @@ title: "Digital årskontrol"
 subtitle: "Kan patienter med velreguleret type 2- diabetes følges digitalt uden at kvaliteten af behandlingen forringes?"
 listing: 
 
-# Velkommen
-Først lidt om projektets formål
+# Velkommen til hjemmesiden om projektet digital årskontrol. 
 
-Det overordnede formål med projektet er at opnå viden om, hvordan almen praksis kan differentiere behandlingsforløb til personer med type 2-diabetes med sigte på at øge lighed i sundhed. 
-Herudover bidrager forsøget med viden om, hvordan et digitalt tilbud kan understøtte differentiering i almen praksis. 
-Viden og erfaring som kan overføres til andre grupper af kronikere. 
-Sundhedsreformen tilsiger, at almen praksis skal overtage kontrollen af flere kronikere, men også at alle patienter i fremtiden skal tilbydes en digital løsning, når det vurderes fagligt forsvarligt, og patienten ønsker det.  
+# Hvad er projekt digital årskontrol?
+Projektet går ud på, at patienter med velbehandlet type 2 diabetes, som har givet samtykket til at deltage i projektet, hver andet år ikke kommer til konsultation hos lægen eller sygeplejersken, når de skal have svar på deres diabetes årskontrolprøver, men i stedet får en mail fra lægen eller sygeplejersken med svar på prøverne.  
+Deltagerne i projektet skal stadig have foretaget årsprøver i form af blod- og urinprøve, samt lave hjemmeblodtyksmålinger og svare på spørgsmål om levevis og symtomer på eventuelle senkomplikationer. 
+Det eneste, der er ændret er, at svaret på deres årskontrolprøver bliver givet på mail. 
 
-Antallet af personer med type 2-diabetes i Danmark er stigende og skønnes at nå 420.000 i 2030. Flere yngre får T2D og andelen af velbehandlede type 2 diabetikere er stigende. 
-Cirka 4 ud af 10 personer med T2D i Danmark har ingen hjertekarsygdom og har samtidig normale værdier for langtidsblodsukker og kolesterol [1].   
+# Hvad er formålet med projeket?
+Formålet er at udvikle og afprøve en ny model for, hvordan almen praksis kan udføre diabetes årskontrol hos personer med velbehandlet type 2-diabetes. 
+Traditionelt foregår kontrollerne for personer med type 2-diabetes i Danmark ved, at personen med type 2-diabetes møder op til en årssamtale eller statussamtale én gang om året. 
+Antallet af danskere med type 2‑diabetes stiger, så dette berører flere og flere personer — men heldigvis er der også godt nyt, da en større andel end tidligere, er velbehandlede. 
+For at sikre, at der i fremtiden fortsat er ressourcer til dem, der har mest brug for det, er det nødvendigt at prioritere sundhedsvæsenets ressourcer. 
+Samtidig efterspørger mange patienter og politikere digitale tilbud fra sundhedsvæsenet.  
+Vi vil derfor med forsøget undersøge, om det er sikkert for personer med velbehandlede type 2-diabetes, at blive fulgt med en digital årskontrol hvert andet år.  
 
-Hvis almen praksis skal kunne løfte denne opgave, er det nødvendigt at undersøge digitale alternativer for opfølning af personer med kronisk sygdom. 
-Samtidig er det vigtigt at opnå evidens for, hvordan dette kan udføres sikkert med hensyn til at holde behandlingskvaliteten. 
+# Hvor lang tid varer projektet?
+Projektet varer cirka 2 år. Det starter, når deltageren har givet samtykke.  Efter afgivelse af samtykke vil deltagerens kommende årskontrol være digital.  Året efter, at deltageren har haft den digitale årskontrol, vil den efterfølgende årskontrol igen være en årskontrol med fysisk fremmøde. Forsøget slutter når vi har modtaget oplysninger om, at årskontrollen med fysisk fremmøde, som ligger året efter den digitale årskontrol, er afholdt.  
 
-Forsøget afprøver, om en digital årskontrol kan implementeres uden at gå på kompromis med behandlingskvaliteten i en population af personer med type 2-diabetes, som ud fra et sæt foruddefinerede indikatorer vurderes som velregulerede. I forsøget vil den eksisterende fysiske årskontrol hvert andet år blive erstattet af en digital årskontrol.
+# Hvordan evalueres projektet?
+Projektet vil blive evalueret på, om deltagerne i det digitale forløb klarer sig lige så godt vedrørende HbA1c, som personer med type2-diabetes, der følger en standard årskontrol. 
+Desuden vil projektet følge øvrige diabetesrelevante værdier, herunder blodtryk, kolesterol, eGFR og UACR, diabetes relevavant medicin og forbruget af sundhedsydelser.   
 
-Herudover vil forsøget gennem kvalitative interviews undersøge hvordan:
-•	Omlægningen til digital årskontrol håndteres og opleves af almen praksis og deltagere i forsøget. 
-•	Behandlere i almen praksis håndterer muligheden for at differentiere behandling. 
-•	Påvirker differentieringen forbruget af sundhedsydelser for deltagerne? 
+# Hvem kan deltage?
+Alle praktiserende læger i Region Midt kan deltage. 
 
 
 
 ::: {#listing}
 :::
 
-![](/images/VS.png){fig-alt="Projektbanner med teksten 'Spørg til årsstatus – Tarmkræftscreening som en del af diabetesomsorgen'. Logoer for Region Midtjylland, Steno Diabetes Center Aarhus og Kræftens Bekæmpelse."
-width="50%" fig-align="center"}
+
