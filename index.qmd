@@ -1,6 +1,6 @@
 ---
 title-block-banner: true
-title: "Digital årskontrol" 💻  ![] blob:https://chat.chatbot.app/55abd7fe-eb20-4b5d-bfc9-662afdacc63c
+title: "Digital årskontrol" 💻  ![] "\\onerm.dk\Home\DC2\K\KICHIS\Downloads\result.jpeg"
 # subtitle: "Kan patienter med velreguleret type 2- diabetes følges digitalt uden at kvaliteten af behandlingen forringes?"
 ---
 
