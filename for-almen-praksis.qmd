@@ -8,27 +8,23 @@ Projektet vil undersøge, om hver anden årskontrol hos voksne med velbehandlett
 Forsøget vil løbe over to år og blive evalueret på, om deltagerne i det digitale forløb klarer sig lige så godt vedrørende HbA1c, som personer med type 2-diabetes, der følger en standard årskontrol. Desuden vil projektet følge forbruget af konsultationer, øvrige diabetesrelevante værdier, herunder blodtryk, kolesterol, eGFR, UACR og medicin.
 
 
-Hvad kræver det af klinikken at deltage:
+# Almen praksis' opgaver i forbindelse med projektet.
+1.	Identifikation potentielle deltagere via patientlisten i forløbsoverblikket og ved opslag i journalen eller generelt kendskab til patinten.  
+2.	Rekruttering af deltagere. 
+3. Afholdelse af digital årskontrol
+4. Indsendelse af oplysninger om deltagere. 
 
--	identificer potentielle deltagere via patientlisten i forløbsoverblikket. 
-
-- kontrollér ved opslag i journalen at patinten opfylder inklusionskriterier og egner sig til digital årskontrol.
-
--	sende invitation om deltagelse i projeket til patienten via lægesystemets beskedmodul.
-
-- afgive mundtlig telefonisk information om projektet. 
-
--	sende
-
-Læs mere om projektet, samarbejdspartnere og metode her: [Om projektet](om-projektet.qmd)  
+Læs mere om projektet under fanen "mere om projektet" 
 
 ### Honorar 
 Klinikken honoreres for projektaktiviteter; honoraret er specificeret i samarbejdsaftalen, der fremsendes ved tilmelding.
+Honorar pr. deltager svarer til én times arbejdstid
 
 ## 📋 Tilmelding
 Projektet henvender sig til almen praksis i Region Midtjylland og forventes at starte i september 2026 og have en varighed på 24 måneder.
 
-Når I tilmelder jeres klinik, registreres I som interesserede. Pladserne fordeles efter først-til-mølle-princippet. Senest fem hverdage efter tilmelding vil I modtage yderligere information om projektet samt en samarbejdsaftale, inden det endelige samarbejde aftales.
+Når I tilmelder jeres klinik, registreres I som interesserede. Pladserne fordeles efter først-til-mølle-princippet. 
+Senest fem hverdage efter tilmelding vil I modtage yderligere information om projektet samt en samarbejds- og databehandleraftale, som skal underskrives, inden den endelige tilmelding er gyldig.
 
 Ved at udfylde formularen accepterer I, at vi behandler jeres oplysninger i projektet. Oplysningerne bruges udelukkende til at registrere tilmeldinger og kontakte jer efterfølgende.  
 Tilmeldingen er først registreret, når I har trykket på "Tilmeld" og modtager beskeden: "Tak for din tilmelding".
