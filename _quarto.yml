@@ -11,7 +11,7 @@ website:
     left: 
       - text: "For almen praksis"
         href: for-almen-praksis.qmd
-      - text: "Om projektet"
+      - text: "Mere om projektet"
         href: om-projektet.qmd
       - text: "Kontakt"
         href: kontakt.qmd
