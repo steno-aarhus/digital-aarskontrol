@@ -1,72 +1,45 @@
 #Mere om projektet
 
+#Praktisk gennemførelse
+Efter rektruttering og indhentet samtykke vil deltagerens kommende årskontrol for type 2-diabetes blive gennemført digitalt. Deltageren møder som vanligt til blod- og urinprøve, men måler selv blodtryk (og eventuelt vægt), indsender oplysninger om rygning, motion og alkohol og besvarer et spørgeskema, der screener for senkomplikationer, og som også giver patienten mulighed for at ønske en samtale om sin diabetes. Når alle oplysninger er modtaget, vurderer deltagerens vanlige behandler prøvesvarene og spørgeskemaet, og sender svar på resultaterne til deltageren via Min Læge-app.
+Hvis der findes forhold, som kræver behandlingstiltag, er det op til den ansvarlige behandler at vurdere, om dette kan gøres over mail eller telefon eller kræver, at deltageren bestiller en tid. 
+Deltagerens diabetes årskontrol det efterfølgende år, er igen en standard årskontrol med fysisk fremmøde. 
+Der tages i forsøget ingen ekstra blodprøver eller udføres yderligere undersøgelser ud over dem, deltageren normalt får i forbindelse med en diabetes årskontrol. Det eneste, der ændres, er måden, deltageren og behandleren kommunikerer ved årskontrollen. 
+I hele perioden skal deltageren i øvrigt kontakte sin læge, fuldstændigt som de plejer.
+
 Projeket omfatter to metodiske komponenter:
-
 1.	Et prospektivt kohortestudie med to års opfølgning, hvor deltagerne sammenlignes med en matchet kontrolgruppe. Deltagerne vil blive fulgt med hensyn til udvikling i langtidsblodsukker, nyrefunktion, kolesterol, sygelighed, medicinforbrug, antallet af målinger af langtidsblodsukker samt forbrug af sundhedsydelser i primær- og sekundærsektoren. 
-
 2.	Et kvalitativt studie, der undersøger deltagende patienter og behandleres perspektiver på digital årskontrol og differentiering via kvalitative interviews.
  
+# Hvordan evalueres projektet?
+Projektet vil blive evalueret på, om deltagerne i det digitale forløb klarer sig lige så godt vedrørende HbA1c, som personer med type2-diabetes, der følger en standard årskontrol. 
+Desuden vil projektet følge øvrige diabetesrelevante værdier, herunder blodtryk, kolesterol, eGFR og UACR, diabetes relevavant medicin og forbruget af sundhedsydelser.   
 
-#Statiske overvejelser
-Primære effektmål
-Det primære effektmål er HbA1c. Vores hypotese er, at digital årskontrol ikke er ringere i forhold til ændringer i langtidsblodsukkeret for forsøgsdeltagere sammenlignet med kontrolgruppen.
-Kontrolgruppen identificeres via regionale registre og matches med forsøgsdeltagerne på alder, køn og langtidsblodsukkerniveau ved forsøgets start.
-Herudover vil følgende informationer blive evalueret i dataindsamlingsperioden (sekundære udfald): antallet af målinger af langtidsblodsukkeret, blodtryk, kolesteroltal, nyrefunktionstal, kontakter med det primære og sekundære sundhedsvæsen samt medicinering og komorbiditet relateret til type 2-diabetes.
-
-
-#Størrelse og lokation
-Studiet gennemføres i udvalgte almen praksis beliggende i Region Midtjylland. Alle praksisser i regionen inviteres til at deltage. Målet er deltagelse fra cirka 25 almen praksis klinikker og cirka 600 myndige voksne over 18 år med type 2-diabetes. 
+# Størrelse og lokation
+Studiet gennemføres i udvalgte almen praksis beliggende i Region Midtjylland. Alle praksisser i regionen inviteres til at deltage. Målet er deltagelse fra cirka 25 almen praksis klinikker og cirka patienter medtype 2-diabetes. 
+Hvis interessen for deltagelse bliver væsentligt større end studiets kapacitet vil projektet se sig nødsaget til at lukke for tilmeldinger.
 Til det kvalitative interviewstudie vil cirka 15 deltagere inviteres til at deltage. 
 
-#Rekruttering af deltagere 
-Identifikation og rekruttering af deltagere udføres af almen praksis. 
-Potentielle deltagere identificeres i 2 trin: 
-1. Almen praksis anvender Patientlisten i Forløbsoverblikket til identifikation af patienter som opfylder de "hårde" paraklinikse inklusionskriterier.
+
+# Identifikation og rekruttering af deltagere 
+Identifikation af potentielle deltagere:  
+1. Almen praksis anvender Patientlisten i Forløbsoverblikket til identifikation af patienter som opfylder de "hårde" paraklinikse inklusionskriterier (HbA1c, eGFR, UACR, LDL). Se: link til "hvem kan deltage. 
 2. Ved opslag i journalen eller udfra det generelle kendskab til vurderes om patienten er egnet til digital årskontrol. Vurdering af comorbiditet, samt digitale og sproglige evner. Er der forhold som gør patienten uegnet?
+Der er ikke fastsat bestemt tilstande eller komorbiditeter, som gør pateinten uegnet. Det er en invididuel afgørelse af behandleren. 
 Rekrutteringsprocessen er udførligt beskrevet i bilag 2, Procedure for mundtlig deltagerinformation.
-Der overføres ingen oplysninger om potentielle deltagere til forsøget, før samtykke fra deltager foreligger.
-Forsøget vil indsamle ikke-identificerbare, aggregerede data om potentielle deltagere, der opfylder inklusionskriterierne for langtidsblodsukker, LDL-kolesterol, nyrefunktion og æggehvidestof i urinen, men som enten ikke opfylder kommunikationskravet (dansk- og digitalfærdigheder) eller er udelukket på grund af komorbiditet. Formålet er at opnå viden om gruppen af personer med type 2-diabetes, hvis biomarkører (blodprøver og nyrefunktionsprøver) ligger inden for målområderne, men som ikke er egnede til digital årskontrol på grund af samtidige sygdomme eller sproglige/digitale begrænsninger.
 	
 Rekruttering af deltagere foregår i 3 trin:
-Trin 1(første kontakt). Besked i Min Læge-appen med forespørgsel om deltagelse (bilag 3).
-Trin 2. Mundtligt deltagerinformation givet telefonisk. 
+Trin 1. Besked i Min Læge-appen med forespørgsel om deltagelse (bilag 3).
+Trin 2. Mundtligt deltagerinformation givet telefonisk eller ved fremmøde, hvis patienten af anden årsag er i klinikken, hvor der er tid og mulighed til afgivelse af mundtlig information (bilag 2).
 Trin 3. Besked i Min Læge-appen med link til samtykke (bilag 4).
 
-Vi har valgt den beskrevne rekrutteringsstrategi, da den er forenelig med den måde, hvorpå almen praksis sædvanligvis kontakter patienter på. I forsøgets planlægningsfase har vi interviewet diabetes ansvarlige behandlere (læger, sygeplejersker og SOSU-assistenter) i almen praksis. Flertallet vurderede, at telefonisk information var mest hensigtsmæssig, da mange potentielle deltagere forventes at være erhvervsaktive. Krav om fysisk fremmøde til mundtlig information ville øge risikoen for frafald og dermed indføre bias i forsøgets resultater. Derudover taler telefonisk mundtlig information ind i forsøgets intention om at undgå unødig forstyrrelse af mennesker med kronisk sygdom.
-Flere behandlere i tale satte desuden vigtigheden af, at den mundtlige information gives af den potentielle deltagers faste diabetes behandler, da denne bedst mulig kan tilpasse informationen til den potentielle deltagers individuelle forudsætninger m.h.t. alder, erfaring, sygdomsforståelse m.m.  
-Den faste diabetesbehandler vil i de fleste klinikker være en sygeplejerske, men det kan også være en læge eller en anden sundhedsprofessionel fx en SOSU-assistent, som den praktiserende læge har uddelegeret ansvaret for diabetesbehandlingen til.
 
-Den skriftlige deltagerinformation vil være vedhæftet både besked 1 og 2. Det betyder, at potentielle deltagere har mulighed for at orientere sig i materialet både før og efter at den mundtlige deltagerinformation er givet. 
-
-Trin 1 
-Besked i Min Læge-appen med forespørgsel om deltagelse:
-Personer, der opfylder inklusionskriterierne, kontaktes først ved en besked (bilag 3) i Min Læge-appen. Besked indeholder følgende information:
-1.	At der er tale om en forespørgsel om deltagelse i et sundhedsvidenskabeligt forsøg som undersøger, om personer med velbehandlet type 2-diabetes kan følges digitalt hvert andet år.  
-2.	Link til skriftlig information om forsøget (bilag 5). 
-3.	Information om, at hvis den potentielle deltager ønsker yderligere information om forsøget, skal denne kontakte klinikken, og aftale et tidspunkt for mundtlig information, hvor den potentielle deltager har tilstrækkelig tid, mulighed for en uforstyrret samtale og kan have en bisidder på medhør, hvis ønsket.
-4.	At hvis vedkommende ikke ønsker yderligere information om, eller deltagelse i forsøget, kan personen frabede sig dette, ved at besvare beskeden med ”nej tak”. 
-Trin 2
-Mundtlig information. 
-Procedure for afgivelse af mundtlig deltagerinformation:
-
-På det aftalte tidspunkt ringes vedkommende op af deres faste diabetesbehandler. Den mundtlige deltagerinformation tager udgangspunkt i proceduren for mundtlig deltager information (bilag 2).  Og inkluderer gennemgang af den skriftlige deltager-informationen, tid til besvarelse af spørgsmål, og sikring af, at vedkommende har forstået oplysningerne, og hvad samtykket indebærer.  Under samtalen skal fordele og ulemper ved at deltage i forsøget gennemgås og der skal være tid og mulighed for at den potentielle deltager kan stille spørgsmål. Desuden oplyse potentielle deltagere om, at de har ret til mindst 24 timers betænkningstid fra den mundtlige patientinformation til afgivelse af samtykke. 
-
-Trin 3
-Besked i Min Læge-appen med link til samtykke.
-Efter den mundtlige information er givet, sendes en ny besked (bilag 4) til den potentielle deltager i Min Læge-appen. Beskeden indeholder et link til skriftlig deltagerinformation (bilag 5) og digital samtykkeerklæring (bilag 6). 
-Personer, der ikke ønsker at deltage, kan besvare beskeden direkte med et ”nej tak”.  Personer, som ikke har responderet, dvs. givet samtykke eller svaret ”nej tak”, vil efter cirka to uger modtage en påmindelse herom.  
-
-Betænkningstid mellem deltagerinformation og samtykke sikres på følgende måde:
-•	Både den mundtlige information og det skriftlige patientinformationsmateriale vil oplyse den potentielle deltagere om, at de har ret til mindst 24 timers betænkningstid mellem deltager information og samtykke afgivelse.  
-•	Det skriftlige informationsmateriale er vedhæftet både besked 1 og 2.  Der vil være mindst 1 døgns interval mellem afsendelse af besked 1 og afholdelse af mundtlig information, da dette skal planlægges mellem almen praksis og den potentielle deltager. 
-•	Linket til samtykke afsendes efter den mundtlige information er givet og vil være aktivt i 2 uger. 
-
+# Samtykke
 Samtykke registreres direkte hos Steno Diabetes Center Aarhus og opbevares dér. 
 Oplysning om deltagers samtykke videregives til almen praksis via e-Boks. 
-Ingen oplysninger videregives til forsøget før indhentet samtykke.
+
 Oplysninger fra patientjournaler
-Ved at give samtykke bemyndiger deltageren studiegruppen til at få adgang til deltagerens journaloplysninger, herunder elektroniske patientjournaler.
-For at vurdere behandlingskvalitet mod en matchet kontrolgruppe indsamler vi efter samtykke følgende data:
+
 Fra patientjournalen ved egen læge:
 På inklusionstidspunktet:
 •	År for diabetesdebut.
@@ -74,42 +47,17 @@ På inklusionstidspunktet:
 •	Senest registrerede vægt.
 •	Senest registrerede ryge status.
 
-Ved den digitale årlige opfølgning (tiden 1 år) og ved den efterfølgende standard årlige opfølgning (ved forsøgets afslutning):
+Ved den efterfølgende standard årlige opfølgning (ved forsøgets afslutning):
 •	Blodtryksmåling.
 •	Vægt.
 •	Ryge status.
 
-Fra BI Data Warehouse og DPA_Praksissektor i forsøgets løbetid og et år forud for forsøgsstart:
-•	Langtidsblodsukker.
-•	Nyrefunktionstal.
-•	Total kolesterol.
-•	LDL kolesterol.
-•	Kontakter til sekundærsektor.
-•	Diabetesrelevant medicin (appendiks 13).
-•	Komorbiditeter.
 
-Fra DPA_Praksissektor i forsøgets løbetid og to år forud for forsøgsstart:
-•	Antal konsultationer (fremmøde, telefon, video eller mail) hos egen læge.
-Baggrunden for at antal konsultationer hentes to år forud for forsøgsstart, er at forbruget at konsultationer i forsøgsperioden, både skal sammenlignes med deltagergruppens forbrug af konsultationer i 2 år før forsøgsstart og med den kontrolgruppens forbrug af konsultationer. 
 
-Der oprettes ingen biobank i forbindelse med forsøget. 
-
-Bivirkninger, risici og ulemper
-Der vurderes ikke at være væsentlige risici ved deltagelse i forsøget. Deltagerne følges med sædvanlige årskontrolprøver; alene formidlingen af årskontrolsvaret ændres.
-I forsøgsperioden skal deltageren i øvrigt kontakte sin læge som sædvanligt.
-Der er en lille risiko for, at stigninger i langtidsblodsukker, forhøjet blodtryk eller fald i nyrefunktion kunne være blevet opdaget tidligere ved hyppigere målinger. Disse risici vurderes dog som acceptable, idet de ligger inden for normal klinisk praksis, hvor personer med type 2 diabetes ses 1–4 gange årligt. Da forsøget kun inkluderer deltagere med velbehandlet type 2 diabetes, vurderes én årlig kontrol derfor at være i overensstemmelse med gældende retningslinjer.
-For deltagere, der er vant til hyppigere måling af langtidsblodsukker, kan én årlig kontrol opleves utryg. Det er foreneligt med deltagelse i forsøget at få foretaget flere kontroller af langtidsblodsukkeret, hvis behandleren vurderer det nødvendigt.
-Ændret formidling af årskontrolsvaret — herunder fravær af ansigt-til-ansigt konsultation — kan opleves som utrygt eller psykisk belastende for nogle deltagere. 
-For deltagere, der tilbydes interview, kan det at blive interviewet af nogle deltagere følelse negativt, idet interviewet kan fremkalde tanker eller følelser som er ubehagelige at forholde sig til.
-
- Økonomiske forhold
+# Økonomiske forhold
 Forsøget er finansieret af Steno Diabetes Center Aarhus.
 Deltagerne modtager ikke betaling for deltagelse i forsøget. 
 Deltagende almen praksis modtager betaling for tidsforbrug til rekruttering og dataindsamling.  
-
-
-Offentliggørelse af afprøvningens resultater
-Resultater fra forsøget forventes at blive offentliggjort i nationale og internationale tidsskrifter. Studiets resultater vil desuden blive formidlet til praktiserende læger i Danmark via artikler i fagtidsskrifter og på nationale møder for praktiserende læger og kan muligvis bidrage til opdatering af behandlingsvejledninger.
 
 
 
