@@ -1,7 +1,7 @@
 #For almen praksis
 ---
 
-### Om projektet
+# Om projektet
 Projektet vil undersøge, om hver anden årskontrol hos voksne med velbehandlettype 2-diabetes kan erstattes af en digital model uden at behandlingskvaliteten påvirkes negativt.  
 Forsøget vil løbe over to år og blive evalueret på, om deltagerne i det digitale forløb klarer sig lige så godt vedrørende HbA1c, som personer med type 2-diabetes, der følger en standard årskontrol. Desuden vil projektet følge forbruget af konsultationer, øvrige diabetesrelevante værdier, herunder blodtryk, kolesterol, eGFR, UACR og medicin.
 
@@ -18,8 +18,7 @@ Projektet forventes at starte d. 1. september 2026.
 Klinikken honoreres for projektaktiviteter; honoraret er specificeret i samarbejdsaftalen, der fremsendes ved tilmelding.
 Honorar pr. deltager svarer til én times vedgået arbejdstid jvfr konsulenttaksten fra PLO. 
 
-
-# Formål og baggrund for projeket?
+ <details> <summary><strong>Formål og baggrund for projeket?</strong></summary> 
 Formålet er at udvikle og afprøve en ny model for, hvordan almen praksis kan udføre diabetes årskontrol hos personer med velbehandlet type 2-diabetes. 
 Traditionelt foregår kontrollerne for personer med type 2-diabetes i Danmark ved, at personen med type 2-diabetes møder op til en årssamtale eller statussamtale én gang om året. 
 Antallet af danskere med type 2‑diabetes stiger, så dette berører flere og flere personer — men heldigvis er der også godt nyt, da en større andel end tidligere, er velbehandlede. 
