@@ -32,10 +32,6 @@ Projektet varer cirka 2 år. Det starter, når deltageren har givet samtykke.  E
 # Hvornår starter projektet?
 Projektet forventes at starte d. 1. september 2026. 
 
-# Hvordan evalueres projektet?
-Projektet vil blive evalueret på, om deltagerne i det digitale forløb klarer sig lige så godt vedrørende HbA1c, som personer med type2-diabetes, der følger en standard årskontrol. 
-Desuden vil projektet følge øvrige diabetesrelevante værdier, herunder blodtryk, kolesterol, eGFR og UACR, diabetes relevavant medicin og forbruget af sundhedsydelser.   
-
 # Hvem kan deltage?
 Alle praktiserende læger i Region Midt kan deltage. 
 <details> <summary><strong>Hvilke patienter kan deltage?</strong></summary> 
