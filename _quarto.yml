@@ -11,9 +11,13 @@ website:
     left: 
       - text: "For almen praksis"
         href: for-almen-praksis.qmd
+      - text: "For patienter"
+        href: for-patienter.qmd
       - text: "Mere om projektet"
-        href: om-projektet.qmd
-      - text: "Kontakt"
+        href: mere-om-projektet.qmd
+      - text: "Bilag"
+        href: bilag.qmd
+      - text: "Kontakt og tilmelding"
         href: kontakt.qmd
     tools:
       - icon: github
