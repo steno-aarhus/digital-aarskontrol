@@ -9,11 +9,11 @@ website:
 
   navbar:
     left: 
-      - text: "For almen praksis"
-       menu:
-        - text: "Mere om projektet"
+    - text: "For almen praksis"
+  menu:
+    - text: "Mere om projektet"
           href: mere-om-projektet.qmd
-        - text: "Bilag"
+    - text: "Bilag"
           href: bilag.qmd
 
       - text: "For patienter"
