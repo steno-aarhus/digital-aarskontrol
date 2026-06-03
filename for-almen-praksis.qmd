@@ -26,13 +26,12 @@ For at sikre, at der i fremtiden fortsat er ressourcer til dem, der har mest bru
 Samtidig efterspørger mange patienter og politikere digitale tilbud fra sundhedsvæsenet.  
 Vi vil derfor med forsøget undersøge, om det er sikkert for personer med velbehandlede type 2-diabetes, at blive fulgt med en digital årskontrol hvert andet år.  
 
-# Hvor lang tid varer projektet?
+<details> <summary><strong>Hvor lang tid varer projektet?</strong></summary>
 Projektet varer cirka 2 år. Det starter, når deltageren har givet samtykke.  Efter afgivelse af samtykke vil deltagerens kommende årskontrol være digital.  Året efter, at deltageren har haft den digitale årskontrol, vil den efterfølgende årskontrol igen være en årskontrol med fysisk fremmøde. Forsøget slutter når vi har modtaget oplysninger om, at årskontrollen med fysisk fremmøde, som ligger året efter den digitale årskontrol, er afholdt.
 
-
-# Hvem kan deltage?
+<details> <summary><strong>Hvem kan deltagee?</strong></summary>
 Alle praktiserende læger i Region Midt inviteres til at deltage. 
-<details> <summary><strong>Hvilke patienter kan deltage?</strong></summary> 
+ 
 Voksne med type 2-diabetes, som følges hos egen læge, OG som opfylder følgende kriterier:
 -Nyrefunktion, eGFR > 59 ml/min/1,73 m².
 -Langtidsblodsukker, HbA1c: < 48 mmol/mol, eller 48–53 mmol/mol hvis det individuelle mål for langtidsblodsukkeret er < 53 mmol/mol.
