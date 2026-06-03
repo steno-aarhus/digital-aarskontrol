@@ -12,7 +12,7 @@ website:
     - text: "For almen praksis"
   menu:
     - text: "Mere om projektet"
-          href: mere-om-projektet.qmd
+      href: mere-om-projektet.qmd
     - text: "Bilag"
           href: bilag.qmd
 
