@@ -14,7 +14,7 @@ Projektet forventes at starte d. 1. september 2026.
 3. Afholdelse af digital årskontrol
 4. Indsendelse af oplysninger om deltagere (årstal for diabetesdiagnose, blodtryk, vægt og rygestatus ved projekt start og slut). 
 
-### Honorar 
+# Honorar 
 Klinikken honoreres for projektaktiviteter; honoraret er specificeret i samarbejdsaftalen, der fremsendes ved tilmelding.
 Honorar pr. deltager svarer til én times vedgået arbejdstid jvfr konsulenttaksten fra PLO. 
 
@@ -41,19 +41,6 @@ Voksne med type 2-diabetes, som følges hos egen læge, OG som opfylder følgend
 - LDL-kolesterol < 2,6 mmol/L.
 - Desuden skal den behandligsansvarlige læge eller dennes uddelegrede vurdere, at patienten egner sig digital årskontrol. Fx. kan komorbiditeter eller manglende digitale eller sproglige evner betyde, at patienten ikke vurderes egnet. 
 Gravide kan ikke deltage. 
-
-
-
-## 📋 Tilmelding
-Projektet henvender sig til almen praksis i Region Midtjylland og forventes at starte i september 2026 og have en varighed på 24 måneder.
-Når I tilmelder jeres klinik, registreres I som interesserede. Pladserne fordeles efter først-til-mølle-princippet. 
-Senest fem hverdage efter tilmelding vil I modtage yderligere information om projektet samt en samarbejds- og databehandleraftale, som skal underskrives, inden den endelige tilmelding er gyldig.
-
-Ved at udfylde formularen accepterer I, at vi behandler jeres oplysninger i projektet. Oplysningerne bruges udelukkende til at registrere tilmeldinger og kontakte jer efterfølgende.  
-Tilmeldingen er først registreret, når I har trykket på "Tilmeld" og modtager beskeden: "Tak for din tilmelding".
-<details> <summary><strong>Er tilmelding bindende?</strong></summary> 
-Nej. Tilmelding er i første omgang uforpligtende. Den endelige deltagelse aftales ved indgåelse af samarbejdsaftale. </details> 
-Udfyld tilmeldingsformularen herunder for at tilmelde jeres lægepraksis:
 
 
 # Identifikation og rekruttering af deltagere 
