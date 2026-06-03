@@ -13,14 +13,13 @@ listing:
 
 # Velkommen til hjemmesiden om projekt digital årskontrol. 
 
-# Hvad er projekt digital årskontrol?
 Projektet vil undersøge, om hver anden årskontrol hos voksne med velbehandlet type 2-diabetes, kan erstattes af en digital årskontrol med samme behanlingskvalitet, som ved standard årskontrol med fysisk fremmøde. 
-Det foregår på den måde, at patienten hver andet år ikke møder til konsultation hos lægen eller sygeplejersken for at få svar på deres årskontrolprøver, men i stedet modtager svarene som en mail fra lægen eller sygeplejersken.  
 Deltagerne i projektet skal stadig have foretaget årsprøver i form af blod- og urinprøve, samt lave hjemmeblodtyksmålinger og svare på spørgsmål om levevis og symtomer på eventuelle senkomplikationer. 
 Det eneste, der er ændret, er, at svaret på deres årskontrolprøver bliver givet på mail. 
 
+Forsøget vil løbe over to år og blive evalueret på, om deltagerne i det digitale forløb klarer sig lige så godt vedrørende HbA1c, som personer med type 2-diabetes, der følger en standard årskontrol. 
 
-Vi vil derfor med forsøget undersøge, om det er sikkert for personer med velbehandlede type 2-diabetes, at blive fulgt med en digital årskontrol hvert andet år.  
+
 
 # Hvor lang tid varer projektet?
 Projektet varer cirka 2 år. Det starter, når deltageren har givet samtykke.  Efter afgivelse af samtykke vil deltagerens kommende årskontrol være digital.  Året efter, at deltageren har haft den digitale årskontrol, vil den efterfølgende årskontrol igen være en årskontrol med fysisk fremmøde. Forsøget slutter når vi har modtaget oplysninger om, at årskontrollen med fysisk fremmøde, som ligger året efter den digitale årskontrol, er afholdt.
