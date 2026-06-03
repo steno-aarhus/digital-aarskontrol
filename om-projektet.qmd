@@ -1,19 +1,11 @@
-#Om projektet
+#Mere om projektet
 
-#Metode og design.
-Studiet omfatter to metodiske komponenter:
+Projeket omfatter to metodiske komponenter:
 
-1.	Et prospektivt kohortestudie med en intervention (den digitale årskontrol) og to års opfølgning, hvor deltagerne sammenlignes med en matchet kontrolgruppe. Deltagerne vil blive fulgt med hensyn til udvikling i langtidsblodsukker, nyrefunktion, kolesterol, sygelighed, medicinforbrug, antallet af målinger af langtidsblodsukker samt forbrug af sundhedsydelser i primær- og sekundærsektoren. 
+1.	Et prospektivt kohortestudie med to års opfølgning, hvor deltagerne sammenlignes med en matchet kontrolgruppe. Deltagerne vil blive fulgt med hensyn til udvikling i langtidsblodsukker, nyrefunktion, kolesterol, sygelighed, medicinforbrug, antallet af målinger af langtidsblodsukker samt forbrug af sundhedsydelser i primær- og sekundærsektoren. 
 
-2.	Et kvalitativt studie, der undersøger deltagernes perspektiver på digital årskontrol og differentiering via semistrukturerede kvalitative interviews.
-
-
-#Praktisk gennemførelse
-Efter indhentet samtykke vil deltagerens kommende årskontrol for type 2-diabetes blive gennemført digitalt. Deltageren møder som vanligt til blod- og urinprøve, men måler selv blodtryk (og eventuelt vægt), indsender oplysninger om rygning, motion og alkohol og besvarer et spørgeskema, der screener for senkomplikationer. Når alle oplysninger er modtaget, vurderer deltagerens vanlige behandler prøvesvarene og spørgeskemaet, og sender svar på resultaterne til deltageren via Min Læge-app.
-Hvis der findes forhold, som kræver behandlingstiltag, er det op til den ansvarlige behandler at vurdere, om dette kan gøres over mail eller telefon eller kræver, at deltageren bestiller en tid. 
-Deltagerens diabetes årskontrol det efterfølgende år, er igen en standard årskontrol med fysisk fremmøde. 
-Der tages i forsøget ingen ekstra blodprøver eller udføres yderligere undersøgelser ud over dem, deltageren normalt får i forbindelse med en diabetes årskontrol. Det eneste, der ændres, er måden, deltageren og behandleren kommunikerer ved årskontrollen. 
-I hele perioden skal deltageren i øvrigt kontakte sin læge, fuldstændigt som de plejer. 
+2.	Et kvalitativt studie, der undersøger deltagende patienter og behandleres perspektiver på digital årskontrol og differentiering via kvalitative interviews.
+ 
 
 #Statiske overvejelser
 Primære effektmål
