@@ -10,7 +10,7 @@ website:
   navbar:
     left: 
       - text: "For almen praksis"
-      menu:
+       menu:
         - text: "Mere om projektet"
           href: mere-om-projektet.qmd
         - text: "Bilag"
