@@ -20,10 +20,6 @@ Det eneste, der er ændret, er, at svaret på deres årskontrolprøver bliver gi
 Forsøget vil løbe over to år og blive evalueret på, om deltagerne i det digitale forløb klarer sig lige så godt vedrørende HbA1c, som personer med type 2-diabetes, der følger en standard årskontrol. 
 
 
-
-# Hvor lang tid varer projektet?
-Projektet varer cirka 2 år. Det starter, når deltageren har givet samtykke.  Efter afgivelse af samtykke vil deltagerens kommende årskontrol være digital.  Året efter, at deltageren har haft den digitale årskontrol, vil den efterfølgende årskontrol igen være en årskontrol med fysisk fremmøde. Forsøget slutter når vi har modtaget oplysninger om, at årskontrollen med fysisk fremmøde, som ligger året efter den digitale årskontrol, er afholdt.
-
 # Hvornår starter projektet?
 Projektet forventes at starte d. 1. september 2026. 
 
