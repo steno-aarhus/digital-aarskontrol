@@ -2,7 +2,7 @@
 
 # Hvem kan deltage?
 Alle praktiserende læger i Region Midt inviteres til at deltage. 
-<details> <summary><strong>Hvilke patienter kan deltage?</strong></summary> 
+<details> <summary><strong>Hvilke patienter kan deltage/inklusionskriterier?</strong></summary> 
 - Voksne med type 2-diabetes, som følges hos egen læge, OG som nedenstående kriterier 
 - Nyrefunktion, eGFR > 59 ml/min/1,73 m²
 - Langtidsblodsukker, HbA1c: < 48 mmol/mol, eller 48–53 mmol/mol hvis det individuelle mål for langtidsblodsukkeret er < 53 mmol/mol.
@@ -13,10 +13,11 @@ Alle praktiserende læger i Region Midt inviteres til at deltage.
 - Gravide kan ikke deltage. 
 
 # Hvad kræver det af klinikken at deltage? 
-Identificer potentielle deltagere via patientlisten i forløbsoverblikket og journalen.  
-Send besked til egnede deltager og afgive telefonisk information om projektet. 
-Afhold den næste diabetes årskontrol som en digital årskontrol 
-Indsend oplysninger om deltagere til projektet. 
+<details> <summary><strong>Hvad kræver det af klinikken deltage?</strong></summary> 
+- Identificere potentielle deltagere, som opfylder inklusionskriterierne. Dette gøres vha. forløbsoverblikket ogjournalen. Læs mere under Identifikation og rekruttering af deltagere.
+- Sende besked til egnede deltager og afgive telefonisk information om projektet. 
+- Afholde den næste diabetes årskontrol som en digital årskontrol.
+- Indsende oplysninger om deltagere til projektet
 
 # Hvad får klinikken ud af at deltage: 
 Mulighed for at gennemgå og systematisere forløbene for jeres patienter med type 2-diabetes. 
