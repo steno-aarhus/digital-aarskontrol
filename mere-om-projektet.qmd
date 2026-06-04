@@ -27,14 +27,12 @@ Alle praktiserende læger i Region Midt inviteres til at deltage.
 ### Vi har tilmeldt os. Hva'så?
 #### Første skridt efter tilmelding er identifikation og rekruttering af deltagere. 
 
-<details> <summary><strong>Identifikation af potentielle deltagere</strong></summary> 
+<details> <summary><strong>Identifikation og rekruttering af potentielle deltagere</strong></summary> 
 - Almen praksis anvender Patientlisten i Forløbsoverblikket til identifikation af patienter som opfylder de "hårde" paraklinikse inklusionskriterier (HbA1c, eGFR, UACR, LDL). Fremgår under "Hvilke patienter kan deltage". 
 - Ved opslag i journalen eller udfra det generelle kendskab til vurderes om patienten er egnet til digital årskontrol. Vurdering af comorbiditet, samt digitale og sproglige evner. Er der forhold som gør patienten uegnet?
 - Der er ikke fastsat bestemt tilstande eller komorbiditeter, som gør pateinten uegnet. Det er en invididuel afgørelse af behandleren. 
-
-<details> <summary><strong>Rekruttering deltagere</strong></summary> 
-- Rekruttering af deltagere foregår i 3 trin:
-- Trin 1. Besked i Min Læge-appen med forespørgsel om deltagelse (bilag 3).
+- Rekruttering af deltagere foregår herefter i 3 trin:
+- Trin 1. Besked i Min Læge-appen med forespørgsel om deltagelse til patienten, som opfylder inklusionskriterierne og er fundet egnet. (bilag 3).
 - Trin 2. Mundtligt deltagerinformation givet telefonisk eller ved fremmøde, hvis patienten af anden årsag er i klinikken, hvor der er tid og mulighed til afgivelse af mundtlig information (bilag 2).
 - Trin 3. Besked i Min Læge-appen med link til samtykke (bilag 4).
 - Rekrutteringsprocessen er udførligt beskrevet i "Procedure for mundtlig deltagerinformation" (bilag 2) under fanen bilag.
