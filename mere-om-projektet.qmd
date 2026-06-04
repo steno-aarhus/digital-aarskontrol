@@ -1,6 +1,6 @@
 # Mere om projektet
 
-## Hvem kan deltage?
+### Hvem kan deltage?
 Alle praktiserende læger i Region Midt inviteres til at deltage. 
 <details> <summary><strong>Hvilke patienter kan deltage/inklusionskriterier?</strong></summary> 
 - Voksne med type 2-diabetes, som følges hos egen læge, OG som nedenstående kriterier 
@@ -12,13 +12,13 @@ Alle praktiserende læger i Region Midt inviteres til at deltage.
 - Desuden skal den behandligsansvarlige læge eller dennes uddelegrede vurdere, at patienten egner sig digital årskontrol. Fx. kan komorbiditeter eller manglende digitale eller sproglige evner betyde, at patienten ikke vurderes egnet.
 - Gravide kan ikke deltage. 
 
-## Hvilke opgaver har almen praksis i forbindelse med deltagelse i projektet?
+### Hvilke opgaver har almen praksis i forbindelse med deltagelse i projektet?
 - Identificere potentielle deltagere som opfylder inklusionskriterierne. Dette gøres vha. forløbsoverblikket og journalen. Læs mere under "Identifikation og rekruttering af deltagere".
 - Sende besked til egnede deltager og afgive telefonisk information om projektet. 
 - Afholde den næste diabetes årskontrol som en digital årskontrol.
 - Indsende oplysninger om deltagere til projektet
 
-## Hvad får klinikken ud af at deltage: 
+### Hvad får klinikken ud af at deltage: 
 - Mulighed for at gennemgå og systematisere forløbene for jeres patienter med type 2-diabetes. 
 - Bidrager med viden om evidensbaseret differentiering af personer med type 2-diabetes og implementering af digitale tilbud. 
 - Honorar: Per deltagende patient svarerende til én times vedgået arbejdstid i hht. til gældende PLO takst. Udbetaltes i to tempi. Deltaljer fremgår af Samarbejdsaftalen, som findes under bilag. 
@@ -27,35 +27,35 @@ Alle praktiserende læger i Region Midt inviteres til at deltage.
 ### Vi har tilmeldt os. Hva'så?
 #### Første skridt efter tilmelding er identifikation og rekruttering af deltagere. 
 
-##### Identifikation af potentielle deltagere:  
+#### Identifikation af potentielle deltagere:  
 - Almen praksis anvender Patientlisten i Forløbsoverblikket til identifikation af patienter som opfylder de "hårde" paraklinikse inklusionskriterier (HbA1c, eGFR, UACR, LDL). Fremgår under "Hvilke patienter kan deltage". 
 - Ved opslag i journalen eller udfra det generelle kendskab til vurderes om patienten er egnet til digital årskontrol. Vurdering af comorbiditet, samt digitale og sproglige evner. Er der forhold som gør patienten uegnet?
 - Der er ikke fastsat bestemt tilstande eller komorbiditeter, som gør pateinten uegnet. Det er en invididuel afgørelse af behandleren. 
 - 
 	
-##### Rekruttering af deltagere foregår i 3 trin:
+#### Rekruttering af deltagere foregår i 3 trin:
 - Trin 1. Besked i Min Læge-appen med forespørgsel om deltagelse (bilag 3).
 - Trin 2. Mundtligt deltagerinformation givet telefonisk eller ved fremmøde, hvis patienten af anden årsag er i klinikken, hvor der er tid og mulighed til afgivelse af mundtlig information (bilag 2).
 - Trin 3. Besked i Min Læge-appen med link til samtykke (bilag 4).
 - Rekrutteringsprocessen er udførligt beskrevet i "Procedure for mundtlig deltagerinformation" (bilag 2) under fanen bilag.
 
-## Samtykke
+### Samtykke
 Samtykke registreres direkte hos Steno Diabetes Center Aarhus og opbevares dér. 
 Oplysning om deltagers samtykke videregives til almen praksis via e-Boks. 
 
-## Praktisk gennemførelse
+### Praktisk gennemførelse
 Efter rektruttering og indhentet samtykke vil deltagerens kommende årskontrol for type 2-diabetes blive gennemført digitalt. Deltageren møder som vanligt til blod- og urinprøve, men måler selv blodtryk (og eventuelt vægt), indsender oplysninger om rygning, motion og alkohol og besvarer et spørgeskema, der screener for senkomplikationer, og som også giver patienten mulighed for at ønske en samtale om sin diabetes. Når alle oplysninger er modtaget, vurderer deltagerens vanlige behandler prøvesvarene og spørgeskemaet, og sender svar på resultaterne til deltageren via Min Læge-app.
 Hvis der findes forhold, som kræver behandlingstiltag, er det op til den ansvarlige behandler at vurdere, om dette kan gøres over mail eller telefon eller kræver, at deltageren bestiller en tid. 
 Deltagerens diabetes årskontrol det efterfølgende år, er igen en standard årskontrol med fysisk fremmøde. 
 Der tages i forsøget ingen ekstra blodprøver eller udføres yderligere undersøgelser ud over dem, deltageren normalt får i forbindelse med en diabetes årskontrol. Det eneste, der ændres, er måden, deltageren og behandleren kommunikerer ved årskontrollen. 
 I hele perioden skal deltageren i øvrigt kontakte sin læge, fuldstændigt som de plejer.
 
-## Størrelse og lokation
+### Størrelse og lokation
 Studiet gennemføres i udvalgte almen praksis beliggende i Region Midtjylland. Alle praksisser i regionen inviteres til at deltage. Målet er deltagelse fra cirka 25 almen praksis klinikker og cirka patienter medtype 2-diabetes. 
 Hvis interessen for deltagelse bliver væsentligt større end studiets kapacitet vil projektet se sig nødsaget til at lukke for tilmeldinger.
 Til det kvalitative interviewstudie vil cirka 15 deltagere inviteres til at deltage. 
 
-## Metode
+### Metode
 1.	Et prospektivt kohortestudie med to års opfølgning, hvor deltagerne sammenlignes med en matchet kontrolgruppe. Deltagerne vil blive fulgt med hensyn til udvikling i langtidsblodsukker, nyrefunktion, kolesterol, sygelighed, medicinforbrug, antallet af målinger af langtidsblodsukker samt forbrug af sundhedsydelser i primær- og sekundærsektoren. 
 2.	Et kvalitativt studie, der undersøger deltagende patienter og behandleres perspektiver på digital årskontrol og differentiering via kvalitative interviews.
  
@@ -63,7 +63,7 @@ Til det kvalitative interviewstudie vil cirka 15 deltagere inviteres til at delt
 Projektet vil blive evalueret på, om deltagerne i det digitale forløb klarer sig lige så godt vedrørende HbA1c, som personer med type2-diabetes, der følger en standard årskontrol. 
 Desuden vil projektet følge øvrige diabetesrelevante værdier, herunder blodtryk, kolesterol, eGFR og UACR, diabetes relevavant medicin og forbruget af sundhedsydelser.   
 
-## Økonomiske forhold
+### Økonomiske forhold
 Forsøget er finansieret af Steno Diabetes Center Aarhus.
 Deltagerne modtager ikke betaling for deltagelse i forsøget. 
 Deltagende almen praksis modtager betaling for tidsforbrug til rekruttering og dataindsamling.  
