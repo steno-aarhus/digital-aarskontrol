@@ -10,20 +10,18 @@ website:
   navbar:
     left: 
     - text: "For almen praksis"
-    
-  menu:
-  - text: "Mere om projektet"
-    href: mere-om-projektet.qmd
-  - text: "Bilag"
-    href: bilag.qmd
-  - text: "For patienter"
-    href: for-patienter.qmd    
-  - text: "Kontakt og tilmelding"
-    href: kontakt.qmd
-    
-  tools:
-      - icon: github
-        href: "https://github.com/steno-aarhus/digital-aarskontrol"
+      menu:
+      - text: "Mere om projektet"
+        href: mere-om-projektet.qmd
+      - text: "Bilag"
+        href: bilag.qmd
+    - text: "For patienter"
+      href: for-patienter.qmd    
+    - text: "Kontakt og tilmelding"
+      href: kontakt.qmd
+    tools:
+        - icon: github
+          href: "https://github.com/steno-aarhus/digital-aarskontrol"
   announcement: 
     icon: info-circle
     dismissable: true
