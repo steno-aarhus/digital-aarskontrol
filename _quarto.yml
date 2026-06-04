@@ -11,7 +11,7 @@ website:
     left: 
     - text: "For almen praksis"
     
-    menu:
+  menu:
   - text: "Mere om projektet"
     href: mere-om-projektet.qmd
   - text: "Bilag"
@@ -21,7 +21,7 @@ website:
   - text: "Kontakt og tilmelding"
     href: kontakt.qmd
     
-    tools:
+  tools:
       - icon: github
         href: "https://github.com/steno-aarhus/digital-aarskontrol"
   announcement: 
