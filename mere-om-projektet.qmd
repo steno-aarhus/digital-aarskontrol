@@ -31,8 +31,8 @@ Alle praktiserende læger i Region Midt inviteres til at deltage.
 - Ved opslag i journalen eller udfra det generelle kendskab til vurderes om patienten er egnet til digital årskontrol. Vurdering af comorbiditet, samt digitale og sproglige evner. Er der forhold som gør patienten uegnet?
 - Der er ikke fastsat bestemt tilstande eller komorbiditeter, som gør pateinten uegnet. Det er en invididuel afgørelse af behandleren. 
 
-<details> <summary><strong>Rekruttering deltagere</strong></summary> 	
 #### Rekruttering af deltagere foregår i 3 trin:
+<details> <summary><strong>Rekruttering deltagere</strong></summary> 	
 - Trin 1. Besked i Min Læge-appen med forespørgsel om deltagelse (bilag 3).
 - Trin 2. Mundtligt deltagerinformation givet telefonisk eller ved fremmøde, hvis patienten af anden årsag er i klinikken, hvor der er tid og mulighed til afgivelse af mundtlig information (bilag 2).
 - Trin 3. Besked i Min Læge-appen med link til samtykke (bilag 4).
