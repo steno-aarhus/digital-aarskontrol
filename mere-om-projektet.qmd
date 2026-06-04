@@ -12,13 +12,13 @@ Alle praktiserende læger i Region Midt inviteres til at deltage.
 - Desuden skal den behandligsansvarlige læge eller dennes uddelegrede vurdere, at patienten egner sig digital årskontrol. Fx. kan komorbiditeter eller manglende digitale eller sproglige evner betyde, at patienten ikke vurderes egnet.
 - Gravide kan ikke deltage. 
 
-### Hvilke opgaver har almen praksis i forbindelse med deltagelse i projektet?
+<details> <summary><strong>Hvilke opgaver har almen praksis i forbindelse med deltagelse i projektet?</strong></summary> 
 - Identificere potentielle deltagere som opfylder inklusionskriterierne. Dette gøres vha. forløbsoverblikket og journalen. Læs mere under "Identifikation og rekruttering af deltagere".
 - Sende besked til egnede deltager og afgive telefonisk information om projektet. 
 - Afholde den næste diabetes årskontrol som en digital årskontrol.
 - Indsende oplysninger om deltagere til projektet
 
-### Hvad får klinikken ud af at deltage: 
+<details> <summary><strong>Hvad får klinikken ud af at deltage?</strong></summary>
 - Mulighed for at gennemgå og systematisere forløbene for jeres patienter med type 2-diabetes. 
 - Bidrager med viden om evidensbaseret differentiering af personer med type 2-diabetes og implementering af digitale tilbud. 
 - Honorar: Per deltagende patient svarerende til én times vedgået arbejdstid i hht. til gældende PLO takst. Udbetaltes i to tempi. Deltaljer fremgår af Samarbejdsaftalen, som findes under bilag. 
@@ -32,7 +32,7 @@ Alle praktiserende læger i Region Midt inviteres til at deltage.
 - Der er ikke fastsat bestemt tilstande eller komorbiditeter, som gør pateinten uegnet. Det er en invididuel afgørelse af behandleren. 
 
 <details> <summary><strong>Rekruttering deltagere</strong></summary> 	
- Rekruttering af deltagere foregår i 3 trin:
+- Rekruttering af deltagere foregår i 3 trin:
 - Trin 1. Besked i Min Læge-appen med forespørgsel om deltagelse (bilag 3).
 - Trin 2. Mundtligt deltagerinformation givet telefonisk eller ved fremmøde, hvis patienten af anden årsag er i klinikken, hvor der er tid og mulighed til afgivelse af mundtlig information (bilag 2).
 - Trin 3. Besked i Min Læge-appen med link til samtykke (bilag 4).
