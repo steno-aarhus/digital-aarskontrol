@@ -12,7 +12,7 @@ Alle praktiserende læger i Region Midt inviteres til at deltage.
 - Desuden skal den behandligsansvarlige læge eller dennes uddelegrede vurdere, at patienten egner sig digital årskontrol. Fx. kan komorbiditeter eller manglende digitale eller sproglige evner betyde, at patienten ikke vurderes egnet.
 - Gravide kan ikke deltage. 
 
-<details> <summary><strong>Hvilke opgaver har almen praksis i forbindelse med deltagelse i projektet?</strong></summary> 
+## Hvilke opgaver har almen praksis i forbindelse med deltagelse i projektet?
 - Identificere potentielle deltagere som opfylder inklusionskriterierne. Dette gøres vha. forløbsoverblikket og journalen. Læs mere under Identifikation og rekruttering af deltagere.
 - Sende besked til egnede deltager og afgive telefonisk information om projektet. 
 - Afholde den næste diabetes årskontrol som en digital årskontrol.
@@ -23,16 +23,18 @@ Alle praktiserende læger i Region Midt inviteres til at deltage.
 - Bidrager med viden om evidensbaseret differentiering af personer med type 2-diabetes og implementering af digitale tilbud. 
 - Honorar: Per deltagende patient svarerende til én times vedgået arbejdstid i hht. til gældende PLO takst. Udbetaltes i to tempi. Første halvdel ved rektruttering. Anden halvdel ved projektets afslutning når der er modtaget oplysninger om deltagere.   
 
-## Hvad er de  næste skridt efter vi har tilmeldt os?
 
-## Første skridt er identifikation og rekruttering af deltagere 
-### Identifikation af potentielle deltagere:  
+
+## Vi har tilmeldt os. Hva'så?
+### Første skridt efter tilmelding er identifikation og rekruttering af deltagere. 
+
+#### Identifikation af potentielle deltagere:  
 - Almen praksis anvender Patientlisten i Forløbsoverblikket til identifikation af patienter som opfylder de "hårde" paraklinikse inklusionskriterier (HbA1c, eGFR, UACR, LDL). Se: link til "hvem kan deltage. 
 - Ved opslag i journalen eller udfra det generelle kendskab til vurderes om patienten er egnet til digital årskontrol. Vurdering af comorbiditet, samt digitale og sproglige evner. Er der forhold som gør patienten uegnet?
 - Der er ikke fastsat bestemt tilstande eller komorbiditeter, som gør pateinten uegnet. Det er en invididuel afgørelse af behandleren. 
 - Rekrutteringsprocessen er udførligt beskrevet i bilag 2 "Procedure for mundtlig deltagerinformation" unde fanen bilag.
 	
-### Rekruttering af deltagere foregår i 3 trin:
+#### Rekruttering af deltagere foregår i 3 trin:
 Trin 1. Besked i Min Læge-appen med forespørgsel om deltagelse (bilag 3).
 Trin 2. Mundtligt deltagerinformation givet telefonisk eller ved fremmøde, hvis patienten af anden årsag er i klinikken, hvor der er tid og mulighed til afgivelse af mundtlig information (bilag 2).
 Trin 3. Besked i Min Læge-appen med link til samtykke (bilag 4).
