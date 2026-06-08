@@ -35,18 +35,18 @@ figcaption {
 
 ![Kirsten Christensen](/images/kirsten-christensen.jpg){.profile-picture}
 
+::: text-center
 Projektkoordinator og kontaktperson\
 Kirsten Christensen\
 Mail: kichis\@rm.dk\
 tlf. 2992 5648
-
-
+:::
 
 ![Annelli Sandbæk](/images/annelli-sandbaek.jpg){.profile-picture}
 
+::: text-center
 Ansvarlig for projektet\
 Annelli Sandbæk\
 mail: anesnd\@rm.dk\
 tlf. 2128 2073
-
 :::
