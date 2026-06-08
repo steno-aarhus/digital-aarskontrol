@@ -30,7 +30,7 @@ Alle praktiserende læger i Region Midt inviteres til at deltage.
 ### Vi har tilmeldt os. Hva'så?
 #### Første skridt efter tilmelding er identifikation og rekruttering af deltagere. 
 
-<details> <summary><strong>Identifikation og rekruttering af potentielle deltagere</strong></summary> 
+<details> <summary><strong>Identifikation af potentielle deltagere</strong></summary> 
 - Almen praksis anvender Patientlisten i Forløbsoverblikket til identifikation af patienter som opfylder de "hårde" paraklinikse inklusionskriterier (HbA1c, eGFR, UACR, LDL). Fremgår under "Hvilke patienter kan deltage". 
 - Ved opslag i journalen eller udfra det generelle kendskab til vurderes, om patienten er egnet til digital årskontrol. Vurdering af comorbiditet, samt digitale og sproglige evner. Er der forhold som gør patienten uegnet? Der er ikke fastsat bestemt tilstande eller komorbiditeter, som gør pateinten uegnet. Det er en invididuel afgørelse af behandleren. 
 
@@ -45,6 +45,7 @@ Samtykke registreres direkte hos Steno Diabetes Center Aarhus og opbevares dér.
 Oplysning om deltagers samtykke videregives til almen praksis via e-Boks. 
 
 ### Praktisk gennemførelse
+<details> <summary><strong>Praktisk gennemførelse</strong></summary> 
 Efter rektruttering og indhentet samtykke vil deltagerens kommende årskontrol for type 2-diabetes blive gennemført digitalt. Deltageren møder som vanligt til blod- og urinprøve, men måler selv blodtryk (og eventuelt vægt), indsender oplysninger om rygning, motion og alkohol og besvarer et spørgeskema, der screener for senkomplikationer. I spørgeskemaet er der også mulighed for at patienten kan ønske en samtale om sin diabetes. Når alle oplysninger er modtaget, vurderer deltagerens vanlige behandler prøvesvarene og spørgeskemaet, og sender svar på resultaterne til deltageren via Min Læge-app.
 Hvis der findes forhold, som kræver behandlingstiltag, er det op til den ansvarlige behandler at vurdere, om dette kan gøres over mail eller telefon eller kræver, at deltageren bestiller en tid. 
 Deltagerens diabetes årskontrol det efterfølgende år, er igen en standard årskontrol med fysisk fremmøde. 
