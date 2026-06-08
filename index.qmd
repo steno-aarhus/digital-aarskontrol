@@ -1,14 +1,8 @@
 ---
 title-block-banner: true
-title: "Digital årskontrol"
-# subtitle: "Kan patienter med velreguleret type 2- diabetes følges digitalt uden at kvaliteten af behandlingen forringes?"
-
-title-block-banner: true
-title: "Digital årskontrol"
+title: "Digital Årskontrol"
 subtitle: "Kan patienter med velreguleret type 2- diabetes følges digitalt uden at kvaliteten af behandlingen forringes?"
-listing: 
-
-# Velkommen til hjemmesiden om projekt digital årskontrol. 
+---
 
 Projektet vil undersøge, om hver anden årskontrol hos voksne med velbehandlet type 2-diabetes, kan erstattes af en digital årskontrol med samme behandlingskvalitet, som ved standard årskontrol med fysisk fremmøde. 
 Deltagerne i projektet skal stadig have foretaget årsprøver i form af blod- og urinprøve, samt lave hjemmeblodtryksmålinger og svare på spørgsmål om levevis og symtomer på eventuelle senkomplikationer. 
