@@ -11,6 +11,8 @@ website:
     left: 
     - text: "For almen praksis"
       menu:
+      - text: "For almen praksis"
+        href: for-almen-praksis.qmd
       - text: "Mere om projektet"
         href: mere-om-projektet.qmd
       - text: "Bilag"
