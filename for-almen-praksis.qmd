@@ -1,24 +1,24 @@
-#For almen praksis
----
+# For almen praksis
 
-# Om projektet
+## Om projektet
+
 Projektet vil undersøge, om hver anden årskontrol hos voksne med velbehandlettype 2-diabetes kan erstattes af en digital model uden at behandlingskvaliteten påvirkes negativt.  
 Forsøget vil løbe over to år og blive evalueret på, om deltagerne i det digitale forløb klarer sig lige så godt vedrørende HbA1c, som personer med type 2-diabetes, der følger en standard årskontrol. Desuden vil projektet følge forbruget af konsultationer, øvrige diabetesrelevante værdier, herunder blodtryk, kolesterol, eGFR, UACR og medicin.
 
-# Hvornår starter projektet?
+### Hvornår starter projektet?
 Projektet forventes at starte d. 1. september 2026. 
 
-# Almen praksis' opgaver i forbindelse med projektet.
+## Almen praksis' opgaver i forbindelse med projektet
 1.	Identifikation potentielle deltagere via patientlisten i forløbsoverblikket og ved opslag i journalen eller generelt kendskab til patinten.  
 2.	Rekruttering af deltagere. 
 3. Afholdelse af digital årskontrol
 4. Indsendelse af oplysninger om deltagere (årstal for diabetesdiagnose, blodtryk, vægt og rygestatus ved projekt start og slut). 
 
-# Honorar 
+## Honorar 
 Klinikken honoreres for projektaktiviteter; honoraret er specificeret i samarbejdsaftalen, der fremsendes ved tilmelding.
 Honorar pr. deltager svarer til én times vedgået arbejdstid jvfr konsulenttaksten fra PLO. 
 
-<details> <summary><strong>Formål og baggrund for projeket?</strong></summary> 
+## Formål og baggrund for projeket
 Formålet er at udvikle og afprøve en ny model for, hvordan almen praksis kan udføre diabetes årskontrol hos personer med velbehandlet type 2-diabetes. 
 Traditionelt foregår kontrollerne for personer med type 2-diabetes i Danmark ved, at personen med type 2-diabetes møder op til en årssamtale eller statussamtale én gang om året. 
 Antallet af danskere med type 2‑diabetes stiger, så dette berører flere og flere personer — men heldigvis er der også godt nyt, da en større andel end tidligere, er velbehandlede. 
@@ -26,10 +26,11 @@ For at sikre, at der i fremtiden fortsat er ressourcer til dem, der har mest bru
 Samtidig efterspørger mange patienter og politikere digitale tilbud fra sundhedsvæsenet.  
 Vi vil derfor med forsøget undersøge, om det er sikkert for personer med velbehandlede type 2-diabetes, at blive fulgt med en digital årskontrol hvert andet år.  
 
-<details> <summary><strong>Hvor lang tid varer projektet?</strong></summary>
+### Hvor lang tid varer projektet?
 Projektet varer cirka 2 år. Det starter, når deltageren har givet samtykke.  Efter afgivelse af samtykke vil deltagerens kommende årskontrol være digital.  Året efter, at deltageren har haft den digitale årskontrol, vil den efterfølgende årskontrol igen være en årskontrol med fysisk fremmøde. Forsøget slutter når vi har modtaget oplysninger om, at årskontrollen med fysisk fremmøde, som ligger året efter den digitale årskontrol, er afholdt.
 
-<details> <summary><strong>Hvem kan deltagee?</strong></summary>
+### Hvem kan deltage?
+
 Alle praktiserende læger i Region Midt inviteres til at deltage. 
  
 Voksne med type 2-diabetes, som følges hos egen læge, OG som opfylder følgende kriterier:
@@ -41,7 +42,8 @@ Voksne med type 2-diabetes, som følges hos egen læge, OG som opfylder følgend
 Gravide kan ikke deltage. 
 
 
-# Identifikation og rekruttering af deltagere 
+## Identifikation og rekruttering af deltagere 
+
 Identifikation af potentielle deltagere:  
 1. Almen praksis anvender Patientlisten i Forløbsoverblikket til identifikation af patienter som opfylder de "hårde" paraklinikse inklusionskriterier (HbA1c, eGFR, UACR, LDL). Se: link til "hvem kan deltage. 
 2. Ved opslag i journalen eller udfra det generelle kendskab til vurderes om patienten er egnet til digital årskontrol. Vurdering af comorbiditet, samt digitale og sproglige evner. Er der forhold som gør patienten uegnet?
@@ -53,36 +55,36 @@ Trin 1. Besked i Min Læge-appen med forespørgsel om deltagelse (bilag 3).
 Trin 2. Mundtligt deltagerinformation givet telefonisk eller ved fremmøde, hvis patienten af anden årsag er i klinikken, hvor der er tid og mulighed til afgivelse af mundtlig information (bilag 2).
 Trin 3. Besked i Min Læge-appen med link til samtykke (bilag 4).
 
-# Samtykke
+## Samtykke
+
 Samtykke registreres direkte hos Steno Diabetes Center Aarhus og opbevares dér. 
 Oplysning om deltagers samtykke videregives til almen praksis via e-Boks. 
 
-# Praktisk gennemførelse
+## Praktisk gennemførelse
+
 Efter rektruttering og indhentet samtykke vil deltagerens kommende årskontrol for type 2-diabetes blive gennemført digitalt. Deltageren møder som vanligt til blod- og urinprøve, men måler selv blodtryk (og eventuelt vægt), indsender oplysninger om rygning, motion og alkohol og besvarer et spørgeskema, der screener for senkomplikationer, og som også giver patienten mulighed for at ønske en samtale om sin diabetes. Når alle oplysninger er modtaget, vurderer deltagerens vanlige behandler prøvesvarene og spørgeskemaet, og sender svar på resultaterne til deltageren via Min Læge-app.
 Hvis der findes forhold, som kræver behandlingstiltag, er det op til den ansvarlige behandler at vurdere, om dette kan gøres over mail eller telefon eller kræver, at deltageren bestiller en tid. 
 Deltagerens diabetes årskontrol det efterfølgende år, er igen en standard årskontrol med fysisk fremmøde. 
 Der tages i forsøget ingen ekstra blodprøver eller udføres yderligere undersøgelser ud over dem, deltageren normalt får i forbindelse med en diabetes årskontrol. Det eneste, der ændres, er måden, deltageren og behandleren kommunikerer ved årskontrollen. 
 I hele perioden skal deltageren i øvrigt kontakte sin læge, fuldstændigt som de plejer.
 
-# Størrelse og lokation
+## Størrelse og lokation
 Alle praksis i Region Midt inviteres til at deltage. Målet er deltagelse fra cirka 25 almen praksis klinikker og cirka patienter medtype 2-diabetes. 
 Hvis interessen for deltagelse bliver væsentligt større end studiets kapacitet vil projektet se sig nødsaget til at lukke for tilmeldinger.
 Til det kvalitative interviewstudie vil cirka 15 deltagere inviteres til at deltage. 
 
-# Evaluering
+## Evaluering
 Projektet vil blive evalueret på, om deltagerne i det digitale forløb klarer sig lige så godt vedrørende HbA1c, som personer med type2-diabetes, der følger en standard årskontrol. 
 Desuden vil projektet følge øvrige diabetesrelevante værdier, herunder blodtryk, kolesterol, eGFR og UACR, diabetes relevavant medicin og forbruget af sundhedsydelser.   
 
-
-# Økonomiske forhold
+## Økonomiske forhold
 Forsøget er finansieret af Steno Diabetes Center Aarhus.
 Deltagerne modtager ikke betaling for deltagelse i forsøget. 
 Deltagende almen praksis modtager betaling for tidsforbrug til rekruttering og dataindsamling.  
 
 Du kan læse studiets protokolresumé under fanen bilag.
 
-
-### Hvad går projektet ud på? 
+## Hvad går projektet ud på? 
 Hvis du som patient deltager i projektet, går det  i korte træk ud på, at du hvert andet år ikke kommer til konsultation hos lægen eller sygeplejersken, når du skal have svar på dine diabetes årskontrolprøver, men i stedet får en mail fra lægen eller sygeplejersken med svar på prøverne. Du skal altså stadig have taget de sædavanlige prøver, og besvare et spørgeskema omkring livsstil og din diabetes. Det eneste der er ændret er, at måden du kommunikerer med din behandler på i forbindelse med årskontrollen.
 
 
@@ -134,7 +136,7 @@ Ved at deltage i forsøget bidrager du med viden om:
 :::
 
 ::: {.callout collapse="true"}
-## **Er der risici og ulmemper ved at deltage**
+## **Er der risici og ulemper ved at deltage?**
 Vi forventer ikke, at din deltagelse vil medføre nogle væsentlige ulemper eller risici for dig.  Du vil blive fulgt med sædvanlige årskontrolprøver og alene formidlingen af årskontrolsvaret ændres. I forsøgsperioden skal du i øvrigt kontakte din læge som sædvanligt.
 Der er en lille risiko for, at en negativ udvikling i din diabetes ville kunne være blevet opdaget tidligere ved hyppigere målinger. Den risiko vurderes dog som acceptabel, da én årlig kontrol vurderes at være i overensstemmelse med gældende retningslinjer for personer med velbehandlet type 2-diabetes.  
 Der kan være uforudsete risici og belastninger forbundet med forsøget.
@@ -143,23 +145,13 @@ Alle som deltager i forsøget er dækket af patienterstatningen.
 :::
 
 ::: {.callout collapse="true"}
-## **Hvordan opbevares og behandles mine data**
+## **Hvordan opbevares og behandles mine data?**
 Alle dine personlige data opbevares og behandles fortroligt og i overensstemmelse med GDPR.  
 Databeskyttelsesloven overholdes ved behandlingen af personoplysninger i projektet.
 Steno Diabetes Center Aarhus indsamler data og opbevarer dem sikkert i en beskyttet database. Kun medarbejdere, der arbejder med forsøget, kan tilgå dine data." Forsøget registreres i den interne fortegnelse i Region Midtjylland.
 Forsøget overfører ikke personoplysninger til udlandet.
 Når forsøget er afsluttet, vil data blive slettet.
 :::
-
-📧 kichis\@rm.dk  
-
-☎️  </details> 
-
-📌 <details> <summary><strong>Hvilke patienter kan indgå?</strong></summary> 
-
-
-
-
 
 
 
