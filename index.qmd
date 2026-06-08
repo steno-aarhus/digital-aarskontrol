@@ -10,14 +10,8 @@ Det eneste, der er ændret, er, at svaret på deres årskontrolprøver bliver gi
 
 Forsøget vil løbe over to år og blive evalueret på, om deltagerne i det digitale forløb klarer sig lige så godt vedrørende HbA1c, som personer med type 2-diabetes, der følger en standard årskontrol. 
 
+![](/images/ina.jpg)
 
-
-![](images/ina_best.jpg)
-
-
-
-::: {#listing}
+::: text-center
+![](/images/rm-logo.png){width=200px}
 :::
-
-
-![](images/2. RM+Steno_rød(RGB)_transparent.png)
