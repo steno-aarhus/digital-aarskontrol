@@ -2,10 +2,7 @@
 title-block-banner: true
 title: "Digital årskontrol"
 # subtitle: "Kan patienter med velreguleret type 2- diabetes følges digitalt uden at kvaliteten af behandlingen forringes?"
----
 
-Denne hjemmeside er under udvikling.
----
 title-block-banner: true
 title: "Digital årskontrol"
 subtitle: "Kan patienter med velreguleret type 2- diabetes følges digitalt uden at kvaliteten af behandlingen forringes?"
