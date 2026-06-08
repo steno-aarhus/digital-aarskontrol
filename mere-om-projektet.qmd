@@ -53,13 +53,15 @@ Der tages i forsøget ingen ekstra blodprøver eller udføres yderligere unders�
 I hele perioden skal deltageren i øvrigt kontakte sin læge, fuldstændigt som de plejer.
 
 ### Størrelse og lokation
+<details> <summary><strong>Størrelse og lokation</strong></summary> 
 Studiet gennemføres i udvalgte almen praksis beliggende i Region Midtjylland. Alle praksisser i regionen inviteres til at deltage. Målet er deltagelse fra cirka 25 almen praksis klinikker og cirka patienter medtype 2-diabetes. 
 Hvis interessen for deltagelse bliver væsentligt større end studiets kapacitet vil projektet se sig nødsaget til at lukke for tilmeldinger.
-Til det kvalitative interviewstudie vil cirka 15 deltagere inviteres til at deltage. 
+
 
 ### Metode
+<details> <summary><strong>Metode</strong></summary> 
 1.	Et prospektivt kohortestudie med to års opfølgning, hvor deltagerne sammenlignes med en matchet kontrolgruppe. Deltagerne vil blive fulgt med hensyn til udvikling i langtidsblodsukker, nyrefunktion, kolesterol, sygelighed, medicinforbrug, antallet af målinger af langtidsblodsukker samt forbrug af sundhedsydelser i primær- og sekundærsektoren. 
-2.	Et kvalitativt studie, der undersøger deltagende patienter og behandleres perspektiver på digital årskontrol og differentiering via kvalitative interviews.
+2.	Et kvalitativt studie, der undersøger deltagende patienter og behandleres perspektiver på digital årskontrol og differentiering via kvalitative interviews. Ca. 15 patienter vil blive interviewet i forbindelse med det kvalitative studie. 
  
 ## Hvordan evalueres projektet?
 Projektet vil blive evalueret på, om deltagerne i det digitale forløb klarer sig lige så godt vedrørende HbA1c, som personer med type2-diabetes, der følger en standard årskontrol. 
@@ -70,7 +72,7 @@ Forsøget er finansieret af Steno Diabetes Center Aarhus.
 Deltagerne modtager ikke betaling for deltagelse i forsøget. 
 Deltagende almen praksis modtager betaling for tidsforbrug til rekruttering og dataindsamling.  
 
-Studiets protokol og protokolresumé kan læses under fanen bilag.
+###Studiets protokol og protokolresumé kan læses under fanen bilag.
 
 
 
