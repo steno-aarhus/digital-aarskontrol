@@ -1,1 +1,32 @@
 
+### Hvad går projektet ud på? 
+Projektet går i korte træk ud på, at du hvert andet år ikke kommer til konsultation hos lægen eller sygeplejersken, når du skal have svar på dine diabetes årskontrolprøver, men i stedet får en mail fra lægen eller sygeplejersken med svar på prøverne. Du skal altså stadig have taget de sædavanlige prøver, og besvare et spørgeskema omkring livsstil og din diabetes. Det eneste der er ændret er, at måden du kommunikerer med din behandler på i forbindelse med årskontrollen.
+
+### Hvad er formålet med projektet? 
+<details> <summary>Formålet med projektet<strong>?</strong></summary> 
+Forsøgets formål er at udvikle og afprøve en ny model for, hvordan almen praksis kan udføre diabetes årskontrol hos personer med velbehandlet type 2-diabetes. Modellen kalder vi Digital Årskontrol.
+Traditionelt foregår kontrollerne for personer med type 2-diabetes i Danmark ved, at personen med type 2-diabetes møder op til en årskontrol én gang om året. Da antallet af danskere med type 2 diabetes stiger, gælder dette for flere og flere, men heldigvis er der også flere end tidligere, som er velbehandlede.
+For at sikre, at der i fremtiden fortsat er ressourcer til de mest syge personer med type 2-diabetes, er det nødvendigt at prioritere ressourcerne anderledes. Samtidig efterspørger mange patienter og politikere digitale tilbud fra sundhedsvæsenet.  Vi vil derfor med forsøget undersøge, om det er sikkert for personer med velbehandlede type 2-diabetes, at blive fulgt med en digital årskontrol hvert andet år. 
+
+
+### Hvad betyder det for mig, hvis jeg siger ja til at deltage?
+<details> <summary><strong>Hvad betyder det, hvis jeg siger ja til at deltage?</strong></summary> 
+Hvis du giver samtykke til at deltage i forsøget, vil din næste årskontrol vil blive digital.
+Det foregår på den måde, at du får taget blod- og urinprøve på samme måde, som du er vant til. Du vil også modtage en besked via Min Læge-appen, hvor du vil blive bedt om selv at lave hjemmeblodtryksmålinger og veje dig, hvis du har en badevægt. 
+Samtidig skal du besvare et spørgeskema vedrørende KRAM-faktorer (spørgsmål om kost, rygning, alkoholforbrug og motion), og et kort spørgeskema med 5-6 spørgsmål, som screener for symptomer på komplikationer, spøger til udfordringer med din medicin og spørger ind til, om du har behov for en samtale om din diabetes. Begge spørgeskemaer tilsendes via Min Læge-appen eller kan tilgås via link modtaget på SMS eller e-mail. 
+Når alle svar foreligger, ser og evaluerer din faste diabetesbehandler prøvesvarene, og sender dig mailsvar i Min Læge-appen. 
+Hvis din behandler finder forhold, som kræver handling, er det op til din behandler at vurdere, om denne information kan drøftes over mail eller telefon eller kræver, at du bestiller en tid. 
+Hvis du i spørgeskemaet har ønsket samtale om din diabetes, vil I aftale en tid til dette. 
+Året efter at du har haft den digitale årskontrol, vil din årskontrol igen være en årskontrol med fysisk fremmøde hos din behandler.
+I hele projektperioden skal du i øvrigt kontakte din læge, når du vurderer, at du har behov for det, fuldstændig som du plejer. Det eneste, der er ændret er, at svaret på dine årskontrolprøver bliver givet på mail. 
+
+
+### Hvor lang tid varer projektet?
+<details> <summary><strong>Hvor lang tid varer projektet?</strong></summary> 
+Forsøget varer cirka 2 år. Det starter, når du har givet samtykke.  Efter afgivelse af samtykke vil din kommende årskontrol være digital.  Året efter, at du har haft den digitale årskontrol, vil din årskontrol igen være en årskontrol med fysisk fremmøde hos din behandler. Forsøget slutter når vi har modtaget oplysninger fra din læge om, at I har afholdt årskontrollen med fysisk fremmøde, som ligger året efter din digitale årskontrol. 
+
+
+### Hvorfor deltage?
+<details> <summary><strong>Hvor lang tid varer projektet?</strong></summary> 
+Forsøget varer cirka 2 år. Det starter, når du har givet samtykke.  Efter afgivelse af samtykke vil din kommende årskontrol være digital.  Året efter, at du har haft den digitale årskontrol, vil din årskontrol igen være en årskontrol med fysisk fremmøde hos din behandler. Forsøget slutter når vi har modtaget oplysninger fra din læge om, at I har afholdt årskontrollen med fysisk fremmøde, som ligger året efter din digitale årskontrol. 
+
