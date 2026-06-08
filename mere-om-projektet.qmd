@@ -12,11 +12,12 @@ Alle praktiserende læger i Region Midt inviteres til at deltage.
 - Desuden skal den behandligsansvarlige læge eller dennes uddelegrede vurdere, at patienten egner sig digital årskontrol. Fx. kan komorbiditeter eller manglende digitale eller sproglige evner betyde, at patienten ikke vurderes egnet.
 - Gravide kan ikke deltage. 
 
-<details> <summary><strong>Hvilke opgaver har almen praksis i forbindelse med deltagelse i projektet?</strong></summary> 
+### Hvilke opgaver har almen praksis i forbindelse med projektet?
+<details> <summary><strong>Ved deltagelse i projektet skal almen praksis:</strong></summary> 
 - Identificere potentielle deltagere som opfylder inklusionskriterierne. Dette gøres vha. forløbsoverblikket og journalen. Læs mere under "Identifikation og rekruttering af deltagere".
-- Sende besked til egnede deltager og afgive telefonisk information om projektet. 
+- Sende besked til egnede deltager, afgive telefonisk information om projektet, sende besked med link til samtykke. 
 - Afholde den næste diabetes årskontrol som en digital årskontrol.
-- Indsende oplysninger om deltagere til projektet.
+- Indsende oplysninger om deltagere til projektet(blodtryk, rygestaus, diabetes debutår, vægt).
 
 <details> <summary><strong>Hvad får klinikken ud af at deltage?</strong></summary>
 - Mulighed for at gennemgå og systematisere forløbene for jeres patienter med type 2-diabetes. 
