@@ -36,13 +36,37 @@ For at du som patient kan deltage i projektet kræver det, at din praktiserende 
 :::
 
 ::: {.callout collapse="true"}
-## **Hvornår skal vores almen praksis starte i projektet?**
-Vi forventer at I kan starte projektet op indenfor tre måneder fra I har tilmeldt jer projektet.
+## **Hvornår starter projektet?**
+Vi forventer at projektet opstarter per 1.9.2026. 
 :::
 
 ::: {.callout collapse="true"}
-## **Hvad indebærer det at deltage?**
-De deltagende almen praksis bliver fordelt i en interventions- og en kontrolgruppe.
-For almen praksis i **interventionsgruppen** indebærer deltagelse, at patienter med type 2-diabetes besvarer PRODIAP inden årssamtalen, og at behandlerne anvender besvarelsen som en del af samtalen. Der vil være en kort oplæringsperiode, hvor behandlerne får introduktion til PRODIAP og dets anvendelse.
+## **Hvorfor deltage?**
+Ved at deltage i forsøget bidrager du med viden om: 
+- Hvordan almen praksis sikkert kan differentiere behandlingsforløb til personer med type 2-diabetes, så der frigøres ressourcer fra de mindst syge, til dem med størst behov
+- Hvordan man i fremtiden kan planlægge behandlingsforløb af personer med type 2-diabetes, så de som ønsker en digital årskontrol, sikkert kan få dette. 
+- Hvordan organiseringen af sikker og retfærdig diabetesbehandling kan tilrettelægges.
+- Hvad der skal til, for at det føles sikkert for en person med type 2-diabetes at blive fulgt digitalt. 
+- Hvordan den digitale årskontrol kan implementers, hvem den egner sig til, og om der er særlige individuelle behov, man bør tage højde for. 
+:::
+
+::: {.callout collapse="true"}
+## **Er der risici og ulmemper ved at deltage**
+Vi forventer ikke, at din deltagelse vil medføre nogle væsentlige ulemper eller risici for dig.  Du vil blive fulgt med sædvanlige årskontrolprøver og alene formidlingen af årskontrolsvaret ændres. I forsøgsperioden skal du i øvrigt kontakte din læge som sædvanligt.
+Der er en lille risiko for, at en negativ udvikling i din diabetes ville kunne være blevet opdaget tidligere ved hyppigere målinger. Den risiko vurderes dog som acceptabel, da én årlig kontrol vurderes at være i overensstemmelse med gældende retningslinjer for personer med velbehandlet type 2-diabetes.  
+Der kan være uforudsete risici og belastninger forbundet med forsøget.
+Forsøget er godkendt af Videnskabsetisk komité (anmeldelsesnummer: 122999). 
+Alle som deltager i forsøget er dækket af patienterstatningen.
+:::
+
+::: {.callout collapse="true"}
+## **Hvordan opbevares og behandles mine data**
+Alle dine personlige data opbevares og behandles fortroligt og i overensstemmelse med GDPR.  
+Databeskyttelsesloven overholdes ved behandlingen af personoplysninger i projektet.
+Steno Diabetes Center Aarhus indsamler data og opbevarer dem sikkert i en beskyttet database. Kun medarbejdere, der arbejder med forsøget, kan tilgå dine data." Forsøget registreres i den interne fortegnelse i Region Midtjylland.
+Forsøget overfører ikke personoplysninger til udlandet.
+Når forsøget er afsluttet, vil data blive slettet.
+:::
+
 
 
