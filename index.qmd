@@ -21,7 +21,7 @@ Forsøget vil løbe over to år og blive evalueret på, om deltagerne i det digi
 
 
 
-![](https://github.com/steno-aarhus/digital-aarskontrol/blob/main/images/IMG_0106.jpg)
+![](/images/IMG_0106.jpg)
 
 
 
