@@ -23,6 +23,7 @@ Alle praktiserende læger i Region Midt inviteres til at deltage.
 ## Hvilke opgaver har almen praksis i forbindelse med projektet?
 
 Ved deltagelse i projektet skal almen praksis: 
+
 - Identificere potentielle deltagere som opfylder inklusionskriterierne. Dette gøres vha. forløbsoverblikket og journalen. Læs mere under "Identifikation og rekruttering af deltagere".
 - Sende besked til egnede deltager, afgive telefonisk information om projektet, sende besked med link til samtykke. 
 - Afholde den næste diabetes årskontrol som en digital årskontrol.
@@ -32,6 +33,7 @@ Ved deltagelse i projektet skal almen praksis:
 ::: {.callout collapse="true"}
 ## Udbytte og honorering
 Hvad får klinikken ud af at deltage?
+
 - Mulighed for at gennemgå og systematisere forløbene for jeres patienter med type 2-diabetes. 
 - Bidrager med viden om evidensbaseret differentiering af personer med type 2-diabetes og implementering af digitale tilbud. 
 - Honorar: Per deltagende patient svarerende til én times vedgået arbejdstid i hht. til gældende PLO takst. Udbetaltes i to tempi. Deltaljer fremgår af Samarbejdsaftalen, som findes under bilag. 
