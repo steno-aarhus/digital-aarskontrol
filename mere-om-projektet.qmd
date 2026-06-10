@@ -92,15 +92,4 @@ I hele perioden skal deltageren i øvrigt kontakte sin læge, fuldstændigt som 
 :::
 
 
-::: {.callout collapse="true"}
-### Hvordan evalueres projektet?
-Projektet vil blive evalueret på, om deltagerne i det digitale forløb klarer sig lige så godt vedrørende HbA1c, som personer med type2-diabetes, der følger en standard årskontrol. 
-Desuden vil projektet følge øvrige diabetesrelevante værdier, herunder blodtryk, kolesterol, eGFR og UACR, diabetes relevavant medicin og forbruget af sundhedsydelser.   
-:::
 
-::: {.callout collapse="true"}
-## Økonomiske forhold
-Forsøget er finansieret af Steno Diabetes Center Aarhus.
-Deltagerne modtager ikke betaling for deltagelse i forsøget. 
-Deltagende almen praksis modtager betaling for tidsforbrug til rekruttering og dataindsamling.  
-:::
