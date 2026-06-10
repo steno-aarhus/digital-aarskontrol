@@ -6,10 +6,9 @@ Projektet henvender sig til almen praksis i Region Midtjylland og forventes at s
 Når I tilmelder jeres klinik, registreres I som interesserede. Pladserne fordeles efter først-til-mølle-princippet. 
 Senest fem hverdage efter tilmelding vil I modtage yderligere information om projektet samt en samarbejds- og databehandleraftale, som skal underskrives, inden den endelige tilmelding er gyldig.
 
-Ved at udfylde formularen accepterer I, at vi behandler jeres oplysninger i projektet. Oplysningerne bruges udelukkende til at registrere tilmeldinger og kontakte jer efterfølgende.  
-Tilmeldingen er først registreret, når I har trykket på "Tilmeld" og modtager beskeden: "Tak for din tilmelding".
 
-#### Ses tilmeldingsmodulet ikke på siden, kan I tilmelde jer ved at skrive en mail med kontaktoplysinger til kichis@rm.dk. 
+
+#### I tilmelde jer ved at skrive en mail med kontaktoplysinger til kichis@rm.dk. 
 
 ### Er tilmelding bindende?
 
@@ -51,4 +50,8 @@ Ansvarlig for projektet\
 Annelli Sandbæk\
 mail: anesnd\@rm.dk\
 tlf. 2128 2073
+
+
+Ved at udfylde formularen accepterer I, at vi behandler jeres oplysninger i projektet. Oplysningerne bruges udelukkende til at registrere tilmeldinger og kontakte jer efterfølgende.  
+Tilmeldingen er først registreret, når I har trykket på "Tilmeld" og modtager beskeden: "Tak for din tilmelding".
 :::
