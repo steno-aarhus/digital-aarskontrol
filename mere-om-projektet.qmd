@@ -47,13 +47,6 @@ Hvis interessen for deltagelse bliver væsentligt større end studiets kapacitet
 :::
 
 
-::: {.callout collapse="true"}
-## Metode
-
-1.	Et prospektivt kohortestudie med to års opfølgning, hvor deltagerne sammenlignes med en matchet kontrolgruppe. Deltagerne vil blive fulgt med hensyn til udvikling i langtidsblodsukker, nyrefunktion, kolesterol, sygelighed, medicinforbrug, antallet af målinger af langtidsblodsukker samt forbrug af sundhedsydelser i primær- og sekundærsektoren. 
-2.	Et kvalitativt studie, der undersøger deltagende patienter og behandleres perspektiver på digital årskontrol og differentiering via kvalitative interviews. Ca. 15 patienter vil blive interviewet i forbindelse med det kvalitative studie.  
-:::
-
 ## Vi har tilmeldt os. Hva'så?
 
 ::: {.callout collapse="true"}
