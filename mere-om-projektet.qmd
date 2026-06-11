@@ -91,5 +91,8 @@ Der tages i forsøget ingen ekstra blodprøver eller udføres yderligere unders�
 I hele perioden skal deltageren i øvrigt kontakte sin læge, fuldstændigt som de plejer.
 :::
 
+::: text-center
+![](/images/rm-logo.png){width=200px}
+:::
 
 
