@@ -50,8 +50,12 @@ Ansvarlig for projektet\
 Annelli Sandbæk\
 mail: anesnd\@rm.dk\
 tlf. 2128 2073
+:::
 
+::: text-center
+![](/images/rm-logo.png){width=200px}
+:::
 
 Ved at udfylde formularen accepterer I, at vi behandler jeres oplysninger i projektet. Oplysningerne bruges udelukkende til at registrere tilmeldinger og kontakte jer efterfølgende.  
 Tilmeldingen er først registreret, når I har trykket på "Tilmeld" og modtager beskeden: "Tak for din tilmelding".
-:::
+
