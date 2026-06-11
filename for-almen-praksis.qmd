@@ -11,12 +11,6 @@ Vi vil derfor med forsøget undersøge, om det er sikkert for personer med velbe
 ## Hvornår starter projektet?
 Projektet forventes at starte d. 1. september 2026. 
 
-## Almen praksis' opgaver i forbindelse med projektet
-1.	Identifikation potentielle deltagere via patientlisten i forløbsoverblikket og ved opslag i journalen eller generelt kendskab til patinten.  
-2.	Rekruttering af deltagere. 
-3. Afholdelse af digital årskontrol
-4. Indsendelse af oplysninger om deltagere (årstal for diabetesdiagnose, blodtryk, vægt og rygestatus ved projekt start og slut). 
-
 ## Hvor lang tid varer projektet?
 Projektet varer cirka 2 år. Det starter, når deltageren har givet samtykke.  Efter afgivelse af samtykke vil deltagerens kommende årskontrol være digital.  Året efter, at deltageren har haft den digitale årskontrol, vil den efterfølgende årskontrol igen være en årskontrol med fysisk fremmøde. Forsøget slutter når vi har modtaget oplysninger om, at årskontrollen med fysisk fremmøde, som ligger året efter den digitale årskontrol, er afholdt. 
 
@@ -28,6 +22,11 @@ Desuden vil projektet følge øvrige diabetesrelevante værdier, herunder blodtr
 Forsøget er finansieret af Steno Diabetes Center Aarhus.
 Deltagerne modtager ikke betaling for deltagelse i forsøget. 
 Deltagende almen praksis modtager betaling for tidsforbrug til rekruttering og dataindsamling.  
+
+
+::: text-center
+![](/images/rm-logo.png){width=200px}
+:::
 
 
 
