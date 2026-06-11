@@ -68,5 +68,8 @@ Forsøget overfører ikke personoplysninger til udlandet.
 Når forsøget er afsluttet, vil data blive slettet.
 :::
 
+::: text-center
+![](/images/rm-logo.png){width=200px}
+:::
 
 
