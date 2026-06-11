@@ -57,7 +57,7 @@ Hvis interessen for deltagelse bliver væsentligt større end studiets kapacitet
 ## Vi har tilmeldt os. Hva'så?
 
 ::: {.callout collapse="true"}
-## Første skridt efter tilmelding er identifikation af deltagere. 
+## Første skridt: Identifikation af potentielle deltagere. 
 
 Identifikation af potentielle deltagere</strong></summary> 
 - Almen praksis anvender Patientlisten i Forløbsoverblikket til identifikation af patienter som opfylder de "hårde" paraklinikse inklusionskriterier (HbA1c, eGFR, UACR, LDL). Fremgår under "Hvilke patienter kan deltage". 
