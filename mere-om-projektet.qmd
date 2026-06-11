@@ -57,7 +57,7 @@ Hvis interessen for deltagelse bliver væsentligt større end studiets kapacitet
 ## Vi har tilmeldt os. Hva'så?
 
 ::: {.callout collapse="true"}
-## Første skridt efter tilmelding er identifikation og rekruttering af deltagere. 
+## Første skridt efter tilmelding er identifikation af deltagere. 
 
 Identifikation af potentielle deltagere</strong></summary> 
 - Almen praksis anvender Patientlisten i Forløbsoverblikket til identifikation af patienter som opfylder de "hårde" paraklinikse inklusionskriterier (HbA1c, eGFR, UACR, LDL). Fremgår under "Hvilke patienter kan deltage". 
@@ -65,7 +65,7 @@ Identifikation af potentielle deltagere</strong></summary>
 :::
 
 ::: {.callout collapse="true"}
-## Rekruttering af deltagere foregår i 3 trin
+## Næste skridt er rekruttering af deltagere. Dette foregår i 3 trin. 
 
 - Trin 1. Besked i Min Læge-appen med forespørgsel om deltagelse til patienten, som opfylder inklusionskriterierne og er fundet egnet. (bilag 3).
 - Trin 2. Mundtligt deltagerinformation givet telefonisk eller ved fremmøde, hvis patienten af anden årsag er i klinikken, hvor der er tid og mulighed til afgivelse af mundtlig information (bilag 2).
