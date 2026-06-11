@@ -11,6 +11,9 @@ Senest fem hverdage efter tilmelding vil I modtage yderligere information om pro
 
 Udfyld tilmeldingsformularen herunder for at tilmelde jeres lægepraksis:
 
+::: text-center
+[Tilmeld jer her](https://redcap.au.dk/surveys/?s=PLN7T7LKK8YEDXDN){.btn .btn-primary}
+:::
 
 ```{=html}
 <style>
