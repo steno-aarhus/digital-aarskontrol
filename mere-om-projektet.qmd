@@ -18,7 +18,7 @@ Alle praktiserende læger i Region Midt inviteres til at deltage.
 :::
 
 ::: {.callout collapse="true"}
-## Eksklusionsdiagnoser, diagnoser som udelukker deltagelse:
+## Eksklusionsdiagnoser - diagnoser som udelukker deltagelse:
 
 - Demens, alle former og grader
 - Mental retardering
