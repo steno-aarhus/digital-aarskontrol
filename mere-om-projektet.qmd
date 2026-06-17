@@ -10,21 +10,21 @@ Alle praktiserende læger i Region Midt inviteres til at deltage.
 ## Hvilke patienter kan deltage/inklusionskriterier?
 
 - Voksne med type 2-diabetes, som følges hos egen læge, OG som opfylder nedenstående kriterier 
-- Langtidsblodsukker, HbA1c: < 48 eller 48–53 hvis det individuelle mål er HbA1C < 53
-- Albumin/kreatinin ratio, UACR:< 30 mg/g eller 30–300 mg/g, hvis deltageren er i behandling med organbeskyttende medicin (SGLT-2i eller GLP-1 agonist OG RAS-blokade med ACE-i eller angiotension II-receptorblokker).
+- Langtidsblodsukker, HbA1c: < 48 ELLER 48–53, hvis det individuelle mål er HbA1C < 53
+- Albumin/kreatinin ratio, UACR:< 30 mg/g ELLER 30–300 mg/g, hvis deltageren er i behandling med organbeskyttende medicin: SGLT-2i eller GLP-1 agonist OG RAS-blokade med ACE-i eller ARB.
 - Nyrefunktion, eGFR > 59 
 - LDL-kolesterol < 2,6 mmol/L
 - Desuden skal den behandligsansvarlige læge eller dennes uddelegrede vurdere, at patienten egner sig digital årskontrol. Fx. kan komorbiditeter eller manglende digitale eller sproglige evner betyde, at patienten ikke vurderes egnet. 
 :::
 
 ::: {.callout collapse="true"}
-## Hvilke patienter IKKE kan deltage/eksklusionsdiagnoser?
+## Eksklusionsdiagnoser, diagnoser som udelukker deltagelse:
 
 - Demens, alle former og grader
 - Mental retardering
 - Hjerteinsufficiens
 - Patienter som modtager palliativ behandling - uanset årsag. 
-- Gravide
+- Graviditet
 :::
 
 ::: {.callout collapse="true"}
