@@ -72,6 +72,7 @@ Forsøget overfører ikke personoplysninger til udlandet.
 Når forsøget er afsluttet, vil data blive slettet.
 :::
 
+::: {.callout collapse="true"}
 ## **Skriftlig deltagerinformation, samlet**
 ### Titel: Digital årskontrol. Kan patienter med velreguleret type 2‑diabetes følges digitalt uden at kvaliteten af behandlingen forringes? 
 Deltagerinformation om deltagelse i et videnskabeligt forsøg for personer med type 2-diabetes.  
