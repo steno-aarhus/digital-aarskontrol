@@ -11,6 +11,22 @@ Vi vil derfor med forsøget undersøge, om det er sikkert for personer med velbe
 ## Hvornår starter projektet?
 Projektet forventes at starte d. 1. september 2026. 
 
+## Jura
+### Styrelsen for Patientsikkerhed 
+Styrelsen for Patientsikkerhed, Tilsyn og Rådgivning Vest, er orienteret om projektet.  
+De oplyses, at der i følge nuværende målepunktsæt for tilsyn i almen praksis, er krav om at behandlingsstederne foretager årskontrol af deres patienter med type 2-diabetes, men at det ikke er et krav, at det i alle tilfælde skal ske ved fysisk konsultation.  
+Styrelsens tilsynsførende er orienteret, og vil ved evt. tilsyn i deltagende klinikker, tage deltagelsen i projektet i betragtning.   
+Du kan læse hele svaret fra Styrelsen for Patientsikkerhed under Bilag. 
+
+### Praksisadministrationen
+Praksisadministrationen, Koncern og Økonomi, Region Midt, er orienteret om projektet.  
+Og svarer: “at der ikke som sådan er et krav i overenskomsten om, at der absolut skal foretages årskontrol på samtlige kronikere hvert år. Der er allerede mulighed for, at det tilpasses patientens behov.  Det betyder også, at kontakten med patienten over mail/app blot skal afregnes med en kronikerydelse uden nogen ekstra registreringsydelse.” 
+Du kan læse hele svaret fra Praksisadministrationen under Bilag 
+
+###
+Projektet er godkendt af Videnskabsetisk Komité sagsnr. 1-10-72-56-26
+ 
+
 ## Hvor lang tid varer projektet?
 Projektet varer cirka 2 år. Det starter, når deltageren har givet samtykke.  Efter afgivelse af samtykke vil deltagerens kommende årskontrol være digital.  Året efter, at deltageren har haft den digitale årskontrol, vil den efterfølgende årskontrol igen være en årskontrol med fysisk fremmøde. Forsøget slutter når vi har modtaget oplysninger om, at årskontrollen med fysisk fremmøde, som ligger året efter den digitale årskontrol, er afholdt. 
 
