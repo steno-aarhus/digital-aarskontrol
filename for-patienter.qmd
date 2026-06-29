@@ -6,10 +6,6 @@ Hvis du som patient deltager i projektet, går det  i korte træk ud på, at du 
 ### Ofte stillede spørgsmål
 
 ::: {.callout collapse="true"}
-
-
-
-::: {.callout collapse="true"}
 ## **Hvad er formålet med projektet??**
 Forsøgets formål er at udvikle og afprøve en ny model for, hvordan almen praksis kan udføre diabetes årskontrol hos personer med velbehandlet type 2-diabetes. Modellen kalder vi Digital Årskontrol.
 Traditionelt foregår kontrollerne for personer med type 2-diabetes i Danmark ved, at personen med type 2-diabetes møder op til en årskontrol én gang om året. Da antallet af danskere med type 2 diabetes stiger, gælder dette for flere og flere, men heldigvis er der også flere end tidligere, som er velbehandlede.
