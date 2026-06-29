@@ -48,9 +48,9 @@ Hvad får klinikken ud af at deltage?
 :::
 
 ::: {.callout collapse="true"}
-## Projektets størrelse og lokation
+## Projektets størrelse
 
-Alle praksisser i Region Midtjylland.  inviteres til at deltage. Målet er deltagelse fra cirka 25 almen praksis klinikker og cirka 600 patienter med type 2-diabetes. 
+Alle praksisser i Region Midtjylland inviteres til at deltage. Målet er deltagelse fra cirka 25 almen praksis klinikker og cirka 600 patienter med type 2-diabetes. 
 Hvis interessen for deltagelse bliver væsentligt større end studiets kapacitet vil projektet se sig nødsaget til at lukke for tilmeldinger.
 :::
 
@@ -61,7 +61,7 @@ Hvis interessen for deltagelse bliver væsentligt større end studiets kapacitet
 ## Første skridt: Identifikation af potentielle deltagere. 
 
 Identifikation af potentielle deltagere</strong></summary> 
-- Almen praksis anvender Patientlisten i Forløbsoverblikket til identifikation af patienter som opfylder de "hårde" paraklinikse inklusionskriterier (HbA1c, eGFR, UACR, LDL). Fremgår under "Hvilke patienter kan deltage". 
+- Almen praksis anvender Patientlisten i Forløbsoverblikket til identifikation af patienter som opfylder de "hårde" paraklinikse inklusionskriterier (HbA1c, eGFR, UACR, LDL og eventuel behandling med organbeskyttende medicin). 
 - Ved opslag i journalen eller udfra det generelle kendskab til vurderes, om patienten er egnet til digital årskontrol. Vurdering af comorbiditet, samt digitale og sproglige evner. Er der forhold som gør patienten uegnet? Der er ikke fastsat bestemt tilstande eller komorbiditeter, som gør pateinten uegnet. Det er en individuel afgørelse af behandleren. 
 :::
 
@@ -85,10 +85,16 @@ Oplysning om deltagers samtykke videregives til almen praksis via e-Boks.
 ::: {.callout collapse="true"}
 ## Praktisk gennemførelse
 
-Efter rektruttering og indhentet samtykke vil deltagerens kommende årskontrol for type 2-diabetes blive gennemført digitalt. Deltageren møder som vanligt til blod- og urinprøve, men måler selv blodtryk (og eventuelt vægt), indsender oplysninger om rygning, motion og alkohol og besvarer et spørgeskema, der screener for senkomplikationer, og som også giver patienten mulighed for at ønske en samtale om sin diabetes. Når alle oplysninger er modtaget, vurderer deltagerens vanlige behandler prøvesvarene og spørgeskemaet, og sender svar på resultaterne til deltageren via Min Læge-app.
-Hvis der findes forhold, som kræver behandlingstiltag, er det op til den ansvarlige behandler at vurdere, om dette kan gøres over mail eller telefon eller kræver, at deltageren bestiller en tid. 
-Deltagerens diabetes årskontrol det efterfølgende år, er igen en standard årskontrol med fysisk fremmøde. 
-Der tages i forsøget ingen ekstra blodprøver eller udføres yderligere undersøgelser ud over dem, deltageren normalt får i forbindelse med en diabetes årskontrol. Det eneste, der ændres, er måden, deltageren og behandleren kommunikerer ved årskontrollen. 
+Efter rektruttering og indhentet samtykke er deltagerens kommende årskontrol en digital årskontrol. Deltageren møder som vanligt til blod- og urinprøve, men måler selv blodtryk (og eventuelt vægt), indsender oplysninger om rygning, motion og alkohol og besvarer et spørgeskema, der screener for senkomplikationer, og som også giver patienten mulighed for at ønske en samtale om sin diabetes. Når alle oplysninger er modtaget, vurderer deltagerens vanlige behandler prøvesvarene og spørgeskemaet, og sender svar på resultaterne til patienten via Min Læge-app.
+Hvis der findes forhold, som kræver behandlingstiltag, er det op til den ansvarlige behandler at vurdere, om dette kan gøres over mail eller telefon eller kræver, at patienten bestiller en tid. 
+Hvis patienten i spørgeskemaet har afkrydset i feltet for "behov for en samtale om min diabetes", skal patienten tilbydes en samtale herom. 
+
+Patientens diabetes årskontrol det efterfølgende år (2.projektår), er igen en standard årskontrol med fysisk fremmøde. 
+Der tages i forsøget ingen ekstra blodprøver eller udføres yderligere undersøgelser ud over dem, deltageren normalt får foretaget i forbindelse med en diabetes årskontrol. 
+Det eneste, der ændres, er måden, deltageren og behandleren kommunikerer ved årskontrollen. 
+
+Der er, for patienterne som deltager i projektet, ikke planlagt ½ års kontrol af HbA1c eller nyretal, da én årlig kontrol af nyretal og HbA1c vurderes af være i overensstemmelse med gældende retnignslinjer for patientgruppen. Såfremt der er særlige forhold, som giver indikation for at kontrollere HbA1c eller nyretal flere gange årligt, skal kontrollen udføres og påvirker **ikke** deltagelsen i projektet.
+
 I hele perioden skal deltageren i øvrigt kontakte sin læge, fuldstændigt som de plejer.
 :::
 
