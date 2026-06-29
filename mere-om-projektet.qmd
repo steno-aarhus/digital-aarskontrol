@@ -18,7 +18,7 @@ Alle praktiserende læger i Region Midt inviteres til at deltage.
 :::
 
 ::: {.callout collapse="true"}
-## Eksklusionsdiagnoser - diagnoser som udelukker deltagelse:
+## Hvilke patienter kan ikke deltage/eksklusionsdiagnoser:
 
 - Demens, alle former og grader
 - Mental retardering
@@ -32,7 +32,7 @@ Alle praktiserende læger i Region Midt inviteres til at deltage.
 
 Ved deltagelse i projektet skal almen praksis: 
 
-- Identificere potentielle deltagere som opfylder inklusionskriterierne. Dette gøres vha. forløbsoverblikket og journalen. Læs mere under "Identifikation og rekruttering af deltagere".
+- Identificere potentielle deltagere som opfylder inklusionskriterierne. Dette gøres vha. forløbsoverblikket og journalen. Læs mere under "Identifikation" og "Rekruttering" nedenfor.
 - Sende besked til egnede deltager, afgive telefonisk information om projektet, sende besked med link til samtykke. 
 - Afholde den næste diabetes årskontrol som en digital årskontrol.
 - Indsende oplysninger om deltagere til projektet(blodtryk, rygestaus, diabetes debutår, vægt).
@@ -58,7 +58,7 @@ Hvis interessen for deltagelse bliver væsentligt større end studiets kapacitet
 ## Vi har tilmeldt os. Hva'så?
 
 ::: {.callout collapse="true"}
-## Første skridt: Identifikation af potentielle deltagere. 
+## Identifikation af potentielle deltagere. 
 
 Identifikation af potentielle deltagere</strong></summary> 
 - Almen praksis anvender Patientlisten i Forløbsoverblikket til identifikation af patienter som opfylder de "hårde" paraklinikse inklusionskriterier (HbA1c, eGFR, UACR, LDL og eventuel behandling med organbeskyttende medicin). 
@@ -66,8 +66,8 @@ Identifikation af potentielle deltagere</strong></summary>
 :::
 
 ::: {.callout collapse="true"}
-## Næste skridt er rekruttering af deltagere. Dette foregår i 3 trin. 
-
+## Rekruttering af deltagere. 
+Rekruttering foregår i 3 trin. 
 - Trin 1. Besked i Min Læge-appen med forespørgsel om deltagelse til patienten, som opfylder inklusionskriterierne og er fundet egnet. (bilag 3).
 - Trin 2. Mundtligt deltagerinformation givet telefonisk eller ved fremmøde, hvis patienten af anden årsag er i klinikken, hvor der er tid og mulighed til afgivelse af mundtlig information (bilag 2).
 - Trin 3. Besked i Min Læge-appen med link til samtykke (bilag 4).
