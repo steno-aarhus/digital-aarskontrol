@@ -36,6 +36,8 @@ Ved deltagelse i projektet skal almen praksis:
 - Sende besked til egnede deltager, afgive telefonisk information om projektet, sende besked med link til samtykke. 
 - Afholde den næste diabetes årskontrol som en digital årskontrol.
 - Indsende oplysninger om deltagere til projektet(blodtryk, rygestaus, diabetes debutår, vægt).
+
+Opgaverne er deltajeret beskrevet i felterne under fanen, "Vi har tilmeldt os. Hva´så?"
 :::
 
 ::: {.callout collapse="true"}
