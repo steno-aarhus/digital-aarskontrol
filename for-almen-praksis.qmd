@@ -1,7 +1,7 @@
 # Om projektet
 
 ## Formål og baggrund for projeket
-Formålet er at udvikle og afprøve en ny model for, hvordan almen praksis kan udføre diabetes årskontrol hos personer med velbehandlet type 2-diabetes. 
+Formålet er at udvikle og afprøve en ny model for, hvordan almen praksis kan udføre årskontrol hos personer med velbehandlet type 2-diabetes. 
 Traditionelt foregår kontrollerne for personer med type 2-diabetes i Danmark ved, at personen med type 2-diabetes møder op til en årssamtale eller statussamtale én gang om året. 
 Antallet af danskere med type 2‑diabetes stiger, så dette berører flere og flere personer — men heldigvis er der også godt nyt, da en større andel end tidligere, er velbehandlede. 
 For at sikre, at der i fremtiden fortsat er ressourcer til dem, der har mest brug for det, er det nødvendigt at prioritere sundhedsvæsenets ressourcer. 
