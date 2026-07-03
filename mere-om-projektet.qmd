@@ -6,8 +6,6 @@
 Alle praktiserende læger i Region Midt inviteres til at deltage. 
 
 Praksis som deltager i projekt [**PRODIAP**](https://drive.google.com/file/d/1-ffilR2UMEfMudjgsFE9_RWPW1dD9Dvu/view?usp=sharing){target="_blank"} kan desværre ikke deltage.
-
-<a href=”https://steno-aarhus.github.io/prodiap/” target="_blank" rel="noopener noreferrer">Læs mere om PRODIAP ved at trykke her</a>
 :::
 
 ::: {.callout collapse="true"}
