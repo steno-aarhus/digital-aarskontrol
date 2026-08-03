@@ -5,7 +5,7 @@
 
 [Tilsagn fra praksisadministrationen Region Midt](https://drive.google.com/file/d/1naj3i651xArDDLVoObYqJye5XATgmdpR/view?usp=sharing).
 
-[Listen over potentielle deltagere](https://drive.google.com/file/d/1-sNtS9V3llMdWWPsRGAHAzpG24nXJKzT/view?usp=sharing).
+[Listen over potentielle deltagere](https://github.com/steno-aarhus/digital-aarskontrol/blob/main/dokumenter/Listen%20over%20potentielle%20deltagere.pdf).
 
 [Skriftlig deltagerinformation](https://github.com/steno-aarhus/digital-aarskontrol/blob/main/dokumenter/Bilag5.%20Skriftlig%20Deltagerinformation.%20Version%202%2005052026%20REN.pdf)
 
