@@ -1,9 +1,9 @@
 # Bilag
 
 
-[Tilsagn fra Styrelsen for Patientsikkerhed](https://drive.google.com/file/d/1lb2u4u6OQ1_8lsbzrB3dbheP6NS4rtYb/view?usp=sharing).
+[Tilsagn fra Styrelsen for Patientsikkerhed](https://github.com/steno-aarhus/digital-aarskontrol/blob/main/dokumenter/Tilsagn%20fra%20Styrelsen%20for%20patientsikkerhed.pdf).
 
-[Tilsagn fra praksisadministrationen Region Midt](https://drive.google.com/file/d/1naj3i651xArDDLVoObYqJye5XATgmdpR/view?usp=sharing).
+[Tilsagn fra praksisadministrationen Region Midt](https://github.com/steno-aarhus/digital-aarskontrol/blob/main/dokumenter/Tilsagn%20fra%20praksisadministrationen.pdf).
 
 [Listen over potentielle deltagere](https://github.com/steno-aarhus/digital-aarskontrol/blob/main/dokumenter/Listen%20over%20potentielle%20deltagere.pdf).
 
