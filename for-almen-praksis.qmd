@@ -9,14 +9,17 @@ Samtidig efterspørger mange patienter og politikere digitale tilbud fra sundhed
 Vi vil derfor med forsøget undersøge, om det er sikkert for personer med velbehandlede type 2-diabetes, at blive fulgt med en digital årskontrol hvert andet år.  
 
 ## Hvornår starter projektet?
-Projektet forventes at starte d. 1. september 2026. 
+Projektet forventes at opstarte i perioden 1. september- 19. oktober 2026. 
+
+## Tilmelding
+- Tilmeld jer [Her](https://redcap.au.dk/surveys/?s=PLN7T7LKK8YEDXDN)
 
 ## Hvorfor deltage?
 #### Ved et deltage i projektet bidrager I med viden om: 
 - Hvordan almen praksis sikkert kan differentiere behandlingsforløb til personer med type 2-diabetes, så der frigøres ressourcer fra de mindst syge, til dem med størst behov 
 - Hvordan man i fremtiden kan planlægge behandlingsforløb af personer med type 2-diabetes. 
 - Hvordan den digitale årskontrol kan implementeres, hvem den egner sig til, og om der er særlige individuelle behov, man bør tage højde for. Erfaringer som kan overføres til andre grupper af kronikere fx. hypertonikere. 
-- Tilmeld jer [Her](https://redcap.au.dk/surveys/?s=PLN7T7LKK8YEDXDN)
+
 
 
 ## Jura
