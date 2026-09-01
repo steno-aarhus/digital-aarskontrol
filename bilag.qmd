@@ -7,6 +7,10 @@
 
 [Skriftlig deltagerinformation](https://github.com/steno-aarhus/digital-aarskontrol/blob/main/dokumenter/Bilag5.%20Skriftlig%20Deltagerinformation.%20Version%202%2005052026%20REN.pdf)
 
+[Protokol](https://github.com/steno-aarhus/digital-aarskontrol/blob/main/dokumenter/ProtokolDigital%C3%A5rskontrol.pdf)
+
+
+
 
 
 
