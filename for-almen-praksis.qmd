@@ -6,7 +6,7 @@ Traditionelt foregår kontrollerne for personer med type 2-diabetes i Danmark ve
 Antallet af danskere med type 2‑diabetes stiger, så dette berører flere og flere personer — men heldigvis er der også godt nyt, da en større andel end tidligere, er velbehandlede. 
 For at sikre, at der i fremtiden fortsat er ressourcer til dem, der har mest brug for det, er det nødvendigt at prioritere sundhedsvæsenets ressourcer. 
 Samtidig efterspørger mange patienter og politikere digitale tilbud fra sundhedsvæsenet.  
-Vi vil derfor med forsøget undersøge, om det er sikkert for personer med velbehandlede type 2-diabetes, at blive fulgt med en digital årskontrol hvert andet år.  
+Vi vil derfor med forsøget undersøge, om det er sikkert for personer med velbehandlede type 2-diabetes, at blive fulgt med en digital årskontrol hvert andet år.  I de mellemliggende år, hvor der ikke gennemføres digital årskontrol, vil årskontrollen foregå som en almindelig face-to-face-konsultation. 
 
 ## Hvornår starter projektet?
 1.9.2026. Rekrutteirng af patienter og klinikkr forsætter indtil udgangen af 2026. 
