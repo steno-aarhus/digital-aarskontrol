@@ -9,7 +9,7 @@ Samtidig efterspørger mange patienter og politikere digitale tilbud fra sundhed
 Vi vil derfor med forsøget undersøge, om det er sikkert for personer med velbehandlede type 2-diabetes, at blive fulgt med en digital årskontrol hvert andet år.  I de mellemliggende år, hvor der ikke gennemføres digital årskontrol, vil årskontrollen foregå som en almindelig face-to-face-konsultation. 
 
 ## Hvornår starter projektet?
-1.9.2026. Rekrutteirng af patienter og klinikkr forsætter indtil udgangen af 2026. 
+1.9.2026. Rekrutteirng af patienter og klinikker forsætter indtil udgangen af 2026. 
 
 ## Tilmelding
 - Tilmeld jer [Her](https://redcap.au.dk/surveys/?s=PLN7T7LKK8YEDXDN)
